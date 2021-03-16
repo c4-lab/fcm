@@ -1,0 +1,96 @@
+D:\Users\Dipto\PycharmProjects\fcm\venv\Scripts\python.exe D:/Users/Dipto/PycharmProjects/fcm/code/design_of_experiment.py
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\utils\deprecation.py:143: FutureWarning: The sklearn.metrics.classification module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.metrics. Anything that cannot be imported from sklearn.metrics is now part of the private API.
+  warnings.warn(message, FutureWarning)
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 5000000/5000000 [01:44<00:00, 47968.98it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.04144493009327032 inertia:  16556.237577437438
+757 757
+cluster count:  4
+silhouette:  0.03810612745861512 inertia:  16224.477962771156
+757 757
+cluster count:  5
+silhouette:  0.031075516840976602 inertia:  15929.702500385285
+757 757
+cluster count:  6
+silhouette:  0.04416176386001868 inertia:  15634.805689667377
+757 757
+cluster count:  7
+silhouette:  0.043096829602627985 inertia:  15429.225242272705
+757 757
+cluster count:  8
+silhouette:  0.04643829366185933 inertia:  15154.736174170643
+757 757
+cluster count:  9
+silhouette:  0.04691946426005657 inertia:  14953.605212779337
+757 757
+cluster count:  10
+silhouette:  0.049058932102166726 inertia:  14811.684352761033
+757 757
+cluster count:  11
+silhouette:  0.05029839809575654 inertia:  14641.91636944991
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 10000000/10000000 [03:30<00:00, 47557.71it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.040819744155901304 inertia:  18394.41228914066
+757 757
+cluster count:  4
+silhouette:  0.021637595896129156 inertia:  18104.583931704135
+757 757
+cluster count:  5
+silhouette:  0.031946331046512934 inertia:  17797.08324902247
+757 757
+cluster count:  6
+silhouette:  0.02645472294702438 inertia:  17410.074669706646
+757 757
+cluster count:  7
+silhouette:  0.0424328283172899 inertia:  17168.37059403933
+757 757
+cluster count:  8
+silhouette:  0.027847173198116224 inertia:  17016.53140174966
+757 757
+cluster count:  9
+silhouette:  0.04097415432705265 inertia:  16758.682724724236
+757 757
+cluster count:  10
+silhouette:  0.04534496422037436 inertia:  16525.990319575114
+757 757
+cluster count:  11
+silhouette:  0.0445054562649077 inertia:  16270.34969323034
+cluster number:  3
+VI:  1.0610069807492217
+Adj Rand Idx:  0.7182515432505956
+cluster number:  4
+VI:  2.226262596367879
+Adj Rand Idx:  0.27234356741329274
+cluster number:  5
+VI:  2.4957140904541015
+Adj Rand Idx:  0.3497627629352963
+cluster number:  6
+VI:  2.642966471327858
+Adj Rand Idx:  0.37268242961843157
+cluster number:  7
+VI:  2.601360609723655
+Adj Rand Idx:  0.39815047757550487
+cluster number:  8
+VI:  2.994894809837205
+Adj Rand Idx:  0.34506169973540685
+cluster number:  9
+VI:  2.7051345951791284
+Adj Rand Idx:  0.4755687959336076
+cluster number:  10
+VI:  2.892575371565271
+Adj Rand Idx:  0.3792584359656108
+cluster number:  11
+VI:  2.6008806360297174
+Adj Rand Idx:  0.43138362092460997
+
+Process finished with exit code 0

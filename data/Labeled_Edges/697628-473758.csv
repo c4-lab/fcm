@@ -1,0 +1,33 @@
+Source,Target
+Poverty,People dying or getting sick
+Poverty,NOT COVID-19 testing
+Poverty,My personal risk of becoming infected
+Poverty,Me feeling contempt
+People gathering,People dying or getting sick
+People gathering,My personal risk of becoming infected
+People gathering,Me feeling contempt
+People dying or getting sick,NOT People gathering
+People dying or getting sick,My support of government recommendations and regulations
+People dying or getting sick,COVID-19 testing
+People dying or getting sick,NOT My personal risk of becoming infected
+People dying or getting sick,Me feeling contempt
+People dying or getting sick,Wearing Masks
+My support of government recommendations and regulations,NOT People dying or getting sick
+My support of government recommendations and regulations,People recovering
+My support of government recommendations and regulations,COVID-19 testing
+My support of government recommendations and regulations,NOT My personal risk of becoming infected
+My support of government recommendations and regulations,NOT Me feeling contempt
+People recovering,People gathering
+People recovering,NOT My support of government recommendations and regulations
+People recovering,My personal risk of becoming infected
+People recovering,NOT Me feeling contempt
+People recovering,NOT Wearing Masks
+COVID-19 testing,People dying or getting sick
+COVID-19 testing,People recovering
+My personal risk of becoming infected,NOT People gathering
+My personal risk of becoming infected,My support of government recommendations and regulations
+My personal risk of becoming infected,Me feeling contempt
+Wearing Masks,People gathering
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,People recovering
+Wearing Masks,NOT My personal risk of becoming infected

@@ -1,0 +1,25 @@
+Source,Target
+Poverty,Economic Downturn / Recession
+Poverty,Me feeling contempt
+Practicing hygiene/handwashing,My support of government recommendations and regulations
+Practicing hygiene/handwashing,People recovering
+People gathering,NOT Poverty
+People gathering,NOT People recovering
+People gathering,NOT Developing a vaccine
+People gathering,Economic Downturn / Recession
+People gathering,My personal risk of becoming infected
+People gathering,Me feeling contempt
+People dying or getting sick,NOT My support of government recommendations and regulations
+People dying or getting sick,Me feeling contempt
+Developing a vaccine,My support of government recommendations and regulations
+Developing a vaccine,People recovering
+COVID-19 testing,My support of government recommendations and regulations
+COVID-19 testing,People recovering
+Economic Downturn / Recession,Poverty
+Economic Downturn / Recession,My personal risk of becoming infected
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,Economic Downturn / Recession
+Young people not feeling at risk,My personal risk of becoming infected
+Young people not feeling at risk,Me feeling contempt
+Wearing Masks,NOT My support of government recommendations and regulations
+Wearing Masks,Me feeling contempt

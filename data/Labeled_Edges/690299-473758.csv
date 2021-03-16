@@ -1,0 +1,50 @@
+Source,Target
+People dying or getting sick,How long the virus lasts
+People dying or getting sick,Me feeling worry
+People dying or getting sick,My support of government recommendations and regulations
+People dying or getting sick,Developing a vaccine
+People dying or getting sick,People losing jobs
+People dying or getting sick,My personal risk of becoming infected
+People dying or getting sick,NOT Young people not feeling at risk
+How long the virus lasts,People dying or getting sick
+How long the virus lasts,Me feeling worry
+How long the virus lasts,My support of government recommendations and regulations
+How long the virus lasts,Developing a vaccine
+How long the virus lasts,People losing jobs
+How long the virus lasts,My personal risk of becoming infected
+Me feeling worry,My support of government recommendations and regulations
+My support of government recommendations and regulations,NOT People dying or getting sick
+My support of government recommendations and regulations,NOT How long the virus lasts
+My support of government recommendations and regulations,Me feeling worry
+My support of government recommendations and regulations,People recovering
+My support of government recommendations and regulations,NOT People losing jobs
+My support of government recommendations and regulations,My personal risk of becoming infected
+My support of government recommendations and regulations,NOT People touching things
+People recovering,NOT How long the virus lasts
+People recovering,NOT Me feeling worry
+People recovering,NOT People losing jobs
+People recovering,Young people not feeling at risk
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT How long the virus lasts
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,NOT People losing jobs
+Developing a vaccine,NOT My personal risk of becoming infected
+People losing jobs,Me feeling worry
+People losing jobs,Developing a vaccine
+My personal risk of becoming infected,Me feeling worry
+My personal risk of becoming infected,My support of government recommendations and regulations
+My personal risk of becoming infected,Developing a vaccine
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,How long the virus lasts
+Young people not feeling at risk,Me feeling worry
+Young people not feeling at risk,NOT People recovering
+Young people not feeling at risk,Developing a vaccine
+Young people not feeling at risk,People losing jobs
+Young people not feeling at risk,My personal risk of becoming infected
+Young people not feeling at risk,People touching things
+People touching things,People dying or getting sick
+People touching things,How long the virus lasts
+People touching things,Me feeling worry
+People touching things,Developing a vaccine
+People touching things,People losing jobs
+People touching things,My personal risk of becoming infected

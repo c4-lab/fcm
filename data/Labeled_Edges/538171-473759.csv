@@ -1,0 +1,28 @@
+Source,Target
+Rushes on store products,NOT Physical health (nutrition
+Rushes on store products,NOT Me feeling worry
+Rushes on store products,NOT Money
+Rushes on store products,NOT Effect on daily life
+People dying or getting sick,NOT Effect on social Life
+People dying or getting sick,NOT Me feeling worry
+People dying or getting sick,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People dying or getting sick,NOT Effect on daily life
+People recovering,Me feeling worry
+Video games,Effect on social Life
+Video games,Me feeling worry
+Video games,NOT Money
+Video games,Effect on daily life
+Money,NOT Me feeling worry
+Working/teaching from home,NOT Effect on social Life
+Working/teaching from home,Effect on daily life
+Quarantine,Effect on social Life
+Quarantine,NOT Rushes on store products
+Quarantine,NOT Physical health (nutrition
+Quarantine,NOT Me feeling worry
+Quarantine,Video games
+Quarantine,NOT Effect on daily life
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Rushes on store products
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Money
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Effect on daily life

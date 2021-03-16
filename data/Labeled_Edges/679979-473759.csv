@@ -1,0 +1,7 @@
+Source,Target
+People gathering,My personal risk of becoming infected
+People dying or getting sick,My support of government recommendations and regulations
+Me feeling worry,NOT People recovering
+My support of government recommendations and regulations,NOT Me feeling worry
+People recovering,NOT People gathering
+My personal risk of becoming infected,People dying or getting sick

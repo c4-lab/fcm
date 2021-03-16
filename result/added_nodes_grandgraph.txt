@@ -1,0 +1,1033 @@
+Frustration with policies,People dying or getting sick,1
+Frustration with policies,Apathy/Ignorance from vocal minorities,1
+Infected people don't know they are spreading virus,People dying or getting sick,24
+Infected people don't know they are spreading virus,Me feeling worry,16
+Infected people don't know they are spreading virus,NOT People recovering,11
+Infected people don't know they are spreading virus,Apathy/Ignorance from vocal minorities,1
+People dying or getting sick,My support of government recommendations and regulations,12
+People dying or getting sick,My personal risk of becoming infected,26
+People dying or getting sick,Scapegoating of state officials and specific ethnicities,1
+Me feeling worry,My support of government recommendations and regulations,10
+My support of government recommendations and regulations,NOT Me feeling worry,16
+My support of government recommendations and regulations,NOT My personal risk of becoming infected,22
+People recovering,NOT Me feeling worry,33
+People recovering,My support of government recommendations and regulations,21
+People recovering,NOT My personal risk of becoming infected,13
+People recovering,NOT Me feeling contempt,11
+People recovering,Apathy/Ignorance from vocal minorities,1
+My personal risk of becoming infected,My support of government recommendations and regulations,14
+Me feeling contempt,My support of government recommendations and regulations,2
+Apathy/Ignorance from vocal minorities,People dying or getting sick,1
+Apathy/Ignorance from vocal minorities,My personal risk of becoming infected,1
+Apathy/Ignorance from vocal minorities,Scapegoating of state officials and specific ethnicities,1
+Scapegoating of state officials and specific ethnicities,Me feeling contempt,1
+Individual's quality of education,Mental and emotional health,1
+Practicing hygiene/handwashing,People recovering,23
+Timely and reliable information,Individual's quality of education,1
+Timely and reliable information,NOT People gathering,2
+Timely and reliable information,NOT People dying or getting sick,5
+Timely and reliable information,People recovering,6
+Timely and reliable information,NOT People losing jobs,1
+Timely and reliable information,Curbside carryout (restaurants,1
+People gathering,NOT Individual's quality of education,1
+People gathering,Infected people don't know they are spreading virus,9
+People gathering,People dying or getting sick,42
+People gathering,My personal risk of becoming infected,25
+People gathering,NOT Curbside carryout (restaurants,1
+People gathering,Wearing Masks,2
+Overal happiness,Individual's quality of education,1
+Media coverage,Practicing hygiene/handwashing,3
+Media coverage,NOT Timely and reliable information,1
+Media coverage,My support of government recommendations and regulations,9
+Infected people don't know they are spreading virus,People gathering,5
+Infected people don't know they are spreading virus,People recovering,1
+Infected people don't know they are spreading virus,COVID-19 testing,1
+Infected people don't know they are spreading virus,My personal risk of becoming infected,23
+Put infected people in quarantine,Practicing hygiene/handwashing,1
+Put infected people in quarantine,Overal happiness,1
+Put infected people in quarantine,NOT COVID-19 testing,1
+Put infected people in quarantine,NOT Economic Downturn / Recession,1
+Put infected people in quarantine,NOT My personal risk of becoming infected,10
+Put infected people in quarantine,Curbside carryout (restaurants,1
+People dying or getting sick,NOT Individual's quality of education,1
+People dying or getting sick,Practicing hygiene/handwashing,4
+People dying or getting sick,NOT Overal happiness,1
+People dying or getting sick,Media coverage,3
+People dying or getting sick,NOT Mental and emotional health,1
+People dying or getting sick,Curbside carryout (restaurants,1
+People dying or getting sick,Me feeling sympathy,15
+People dying or getting sick,NOT People don't understand situation,1
+Mental and emotional health,Individual's quality of education,1
+Mental and emotional health,Overal happiness,1
+Mental and emotional health,Me feeling sympathy,1
+People recovering,NOT Practicing hygiene/handwashing,2
+People recovering,Overal happiness,1
+People recovering,Media coverage,2
+People recovering,Mental and emotional health,1
+People recovering,NOT Economic Downturn / Recession,4
+People recovering,NOT Wearing Masks,2
+People recovering,NOT Me feeling sympathy,11
+People recovering,NOT People don't understand situation,2
+Developing a vaccine,Individual's quality of education,1
+Developing a vaccine,Media coverage,2
+Developing a vaccine,NOT Infected people don't know they are spreading virus,3
+Developing a vaccine,NOT People dying or getting sick,26
+Developing a vaccine,People recovering,24
+Developing a vaccine,NOT Economic Downturn / Recession,3
+Developing a vaccine,NOT My personal risk of becoming infected,29
+Developing a vaccine,Herd Immunity (virus cannot spread because many people are immune),3
+COVID-19 testing,NOT Infected people don't know they are spreading virus,3
+COVID-19 testing,My support of government recommendations and regulations,12
+COVID-19 testing,NOT My personal risk of becoming infected,12
+People losing jobs,Practicing hygiene/handwashing,1
+People losing jobs,NOT People gathering,1
+People losing jobs,NOT Overal happiness,1
+People losing jobs,NOT Infected people don't know they are spreading virus,1
+People losing jobs,My support of government recommendations and regulations,3
+People losing jobs,People recovering,1
+People losing jobs,NOT COVID-19 testing,1
+People losing jobs,Curbside carryout (restaurants,1
+Economic Downturn / Recession,NOT People gathering,1
+Economic Downturn / Recession,My support of government recommendations and regulations,2
+Economic Downturn / Recession,NOT Curbside carryout (restaurants,1
+Economic Downturn / Recession,NOT People don't understand situation,2
+Curbside carryout (restaurants,Overal happiness,1
+Curbside carryout (restaurants,NOT My personal risk of becoming infected,4
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick,26
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering,31
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected,26
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Wearing Masks,1
+Wearing Masks,NOT Infected people don't know they are spreading virus,1
+Wearing Masks,People recovering,18
+Wearing Masks,My personal risk of becoming infected,2
+People don't understand situation,People gathering,9
+People don't understand situation,Infected people don't know they are spreading virus,4
+Homelessness,NOT Individual's quality of education,1
+Homelessness,Infected people don't know they are spreading virus,1
+Homelessness,People dying or getting sick,10
+Homelessness,NOT People recovering,3
+Homelessness,COVID-19 testing,1
+Homelessness,My personal risk of becoming infected,2
+Coordinated,Individual's quality of education,1
+Coordinated,Practicing hygiene/handwashing,1
+Coordinated,NOT People dying or getting sick,6
+Coordinated,People recovering,5
+Coordinated,NOT Economic Downturn / Recession,4
+Coordinated,NOT My personal risk of becoming infected,5
+Coordinated,Wearing Masks,2
+Coordinated,NOT People don't understand situation,2
+Herd Immunity (virus cannot spread because many people are immune),People gathering,3
+Herd Immunity (virus cannot spread because many people are immune),NOT People dying or getting sick,2
+Herd Immunity (virus cannot spread because many people are immune),NOT Developing a vaccine,1
+Herd Immunity (virus cannot spread because many people are immune),NOT My personal risk of becoming infected,1
+People breathing,NOT People dying or getting sick,4
+People dying or getting sick,People recovering,8
+People dying or getting sick,Wearing Masks,2
+Government financial support for families,NOT People losing jobs,2
+Me feeling worry,People recovering,3
+Me feeling worry,NOT My personal risk of becoming infected,4
+My support of government recommendations and regulations,Timely and reliable information,4
+My support of government recommendations and regulations,Government financial support for families,2
+My support of government recommendations and regulations,NOT Developing a vaccine,1
+My support of government recommendations and regulations,COVID-19 testing,7
+My support of government recommendations and regulations,NOT People losing jobs,5
+Developing a vaccine,NOT Me feeling worry,19
+COVID-19 testing,People dying or getting sick,6
+My personal risk of becoming infected,Practicing hygiene/handwashing,2
+Wearing Masks,People breathing,2
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected,24
+Infected people don't know they are spreading virus,Me feeling sympathy,2
+People dying or getting sick,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,3
+My support of government recommendations and regulations,Wearing Masks,6
+Developing a vaccine,NOT Me feeling sympathy,5
+My personal risk of becoming infected,People dying or getting sick,9
+Young people not feeling at risk,My personal risk of becoming infected,21
+Young people not feeling at risk,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,5
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Me feeling sympathy,3
+Wearing Masks,NOT People dying or getting sick,22
+Wearing Masks,NOT My personal risk of becoming infected,28
+People gathering,NOT Infected people don't know they are spreading virus,1
+People breathing,My personal risk of becoming infected,15
+Infected people don't know they are spreading virus,My support of government recommendations and regulations,2
+People recovering,NOT People gathering,5
+COVID-19 testing,Infected people don't know they are spreading virus,3
+Me feeling contempt,Infected people don't know they are spreading virus,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering,13
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Infected people don't know they are spreading virus,4
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations,17
+Wearing Masks,Infected people don't know they are spreading virus,2
+Media coverage,NOT People not feeling at risk,1
+Put infected people in quarantine,People dying or getting sick,4
+People dying or getting sick,NOT My personal risk of becoming infected,6
+People dying or getting sick,Coordinated,1
+Lack of testing,NOT People not feeling at risk,1
+Lack of access to free healthcare for all,NOT People dying or getting sick,1
+Lack of access to free healthcare for all,NOT Me feeling contempt,1
+People losing jobs,Government financial support for families,4
+Economic Downturn / Recession,NOT People losing jobs,3
+Lack of Coordinated,NOT People dying or getting sick,1
+Lack of Coordinated,NOT Economic Downturn / Recession,1
+People not feeling at risk,NOT People dying or getting sick,1
+Lack of access to the proper knowledge about COVID-19,NOT People don't understand situation,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People dying or getting sick,5
+People don't understand situation,NOT People not feeling at risk,1
+Homelessness,NOT People dying or getting sick,1
+Practicing hygiene/handwashing,NOT People dying or getting sick,17
+Practicing hygiene/handwashing,NOT People don't understand situation,1
+Timely and reliable information,NOT Me feeling worry,8
+People dying or getting sick,Me feeling worry,40
+People dying or getting sick,NOT My support of government recommendations and regulations,9
+Government financial support for families,My support of government recommendations and regulations,17
+My support of government recommendations and regulations,NOT People dying or getting sick,18
+My support of government recommendations and regulations,People recovering,26
+People recovering,NOT People dying or getting sick,8
+COVID-19 testing,NOT People dying or getting sick,13
+COVID-19 testing,People don't understand situation,1
+People losing jobs,Me feeling worry,17
+My personal risk of becoming infected,Me feeling worry,27
+My personal risk of becoming infected,NOT My support of government recommendations and regulations,5
+People don't understand situation,People dying or getting sick,11
+People don't understand situation,My personal risk of becoming infected,13
+People gathering,Me feeling worry,16
+Put infected people in quarantine,People recovering,15
+People dying or getting sick,People gathering,5
+People dying or getting sick,Returning home or to work from infected areas,3
+My support of government recommendations and regulations,Social Distancing/ Shelter in Place / Closure of non-essential businesses,15
+Returning home or to work from infected areas,Me feeling worry,9
+My personal risk of becoming infected,Infected people don't know they are spreading virus,4
+People don't understand situation,Me feeling worry,12
+Number of essential workers,NOT People losing jobs,1
+Practicing hygiene/handwashing,NOT People touching things,1
+Communication,Timely and reliable information,1
+Communication,Media coverage,1
+Timely and reliable information,My support of government recommendations and regulations,13
+Number of elderly patients,Crowded hospitals,1
+Media coverage,Timely and reliable information,4
+People dying or getting sick,NOT People recovering,7
+Crowded hospitals,NOT People recovering,1
+Developing a vaccine,My support of government recommendations and regulations,14
+Developing a vaccine,Number of animals,1
+People losing jobs,Homelessness,4
+My personal risk of becoming infected,Me feeling sympathy,4
+Movies related to Covid-19,Media coverage,1
+Me feeling sympathy,NOT My support of government recommendations and regulations,3
+People touching things,My personal risk of becoming infected,16
+Number of essential workers,Uncertainty (health,1
+Number of essential workers,People touching things,1
+Media coverage,Uncertainty (health,1
+Media coverage,Me feeling contempt,1
+Media coverage,NOT People touching things,1
+People dying or getting sick,People losing jobs,5
+People dying or getting sick,Me feeling contempt,12
+People dying or getting sick,Social Distancing/ Shelter in Place / Closure of non-essential businesses,4
+Uncertainty (health,My support of government recommendations and regulations,1
+Uncertainty (health,Me feeling contempt,1
+Government financial support for families,NOT Me feeling contempt,3
+My support of government recommendations and regulations,Practicing hygiene/handwashing,7
+People recovering,NOT Uncertainty (health,1
+People losing jobs,Uncertainty (health,1
+People losing jobs,Me feeling contempt,5
+People losing jobs,More free schedule,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Uncertainty (health,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People recovering,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People touching things,4
+More free schedule,NOT Me feeling contempt,1
+Coordinated,Government financial support for families,2
+Coordinated,NOT Me feeling contempt,1
+People touching things,People dying or getting sick,13
+People touching things,My support of government recommendations and regulations,1
+People touching things,NOT People recovering,7
+People touching things,Me feeling contempt,3
+Practicing hygiene/handwashing,NOT Me feeling worry,4
+Government financial support for businesses,My support of government recommendations and regulations,11
+Infected people don't know they are spreading virus,Returning home or to work from infected areas,2
+Government financial support for families,NOT Me feeling worry,3
+Access to free healthcare for COVID-19 patients,NOT People dying or getting sick,7
+Access to free healthcare for COVID-19 patients,NOT Me feeling worry,5
+Access to free healthcare for COVID-19 patients,People recovering,12
+Access to free healthcare for COVID-19 patients,NOT My personal risk of becoming infected,4
+Developing a vaccine,NOT People losing jobs,2
+Developing a vaccine,NOT Homelessness,1
+COVID-19 testing,NOT Me feeling worry,6
+People losing jobs,Economic Downturn / Recession,6
+Returning home or to work from infected areas,People dying or getting sick,11
+Returning home or to work from infected areas,My personal risk of becoming infected,11
+Economic Downturn / Recession,NOT Government financial support for businesses,1
+Economic Downturn / Recession,NOT Government financial support for families,2
+Economic Downturn / Recession,Me feeling worry,11
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry,15
+Wearing Masks,NOT Me feeling worry,6
+Coordinated,Government financial support for businesses,2
+Coordinated,NOT Me feeling worry,4
+Coordinated,My support of government recommendations and regulations,8
+Coordinated,Access to free healthcare for COVID-19 patients,1
+Coordinated,Developing a vaccine,1
+Coordinated,COVID-19 testing,2
+Coordinated,NOT People losing jobs,1
+Coordinated,NOT Homelessness,1
+Anxiety,My personal risk of becoming infected,1
+Anxiety,Me feeling sympathy,1
+Scared,Anxiety,1
+Scared,Me feeling sympathy,1
+People going to work,Spreading the virus,1
+People going to work,NOT People recovering,1
+People going to work,NOT Economic Downturn / Recession,1
+People going to work,Contracting the virus,1
+People not following the guidelines and protocols related to the COVID-19,NOT People recovering,1
+Government withholds information,People not following the guidelines and protocols related to the COVID-19,1
+Coronavirus,NOT People going to work,1
+Coronavirus,People dying or getting sick,1
+Coronavirus,NOT My support of government recommendations and regulations,1
+Coronavirus,NOT People recovering,1
+Coronavirus,Economic Downturn / Recession,1
+Coronavirus,My personal risk of becoming infected,1
+No real government financial support,NOT My support of government recommendations and regulations,1
+Spreading the virus,Contracting the virus,1
+My support of government recommendations and regulations,NOT Government withholds information,1
+Access to free healthcare for COVID-19 patients,Coronavirus,1
+Access to free healthcare for COVID-19 patients,NOT My support of government recommendations and regulations,1
+Economic Downturn / Recession,People losing jobs,10
+Economic Downturn / Recession,Price gauging,1
+My personal risk of becoming infected,Anxiety,1
+My personal risk of becoming infected,Scared,1
+Contracting the virus,Spreading the virus,1
+COVID-19 testing,Put infected people in quarantine,4
+COVID-19 testing,People recovering,23
+Wearing Masks,My support of government recommendations and regulations,7
+People don't understand situation,NOT COVID-19 testing,1
+Poverty,Government financial support for families,2
+Poverty,Me feeling worry,3
+Government financial support for businesses,Government financial support for families,1
+Government financial support for businesses,NOT Me feeling worry,2
+People breathing,People dying or getting sick,16
+People breathing,Me feeling worry,9
+People breathing,NOT People recovering,4
+Media coverage,Me feeling worry,13
+Infected people don't know they are spreading virus,Practicing hygiene/handwashing,2
+Put infected people in quarantine,NOT Me feeling worry,6
+Put infected people in quarantine,NOT People recovering,1
+Government financial support for families,Me feeling worry,2
+Developing a vaccine,NOT Practicing hygiene/handwashing,1
+COVID-19 testing,Me feeling worry,3
+Curbside carryout (restaurants,NOT Me feeling worry,3
+Wearing Masks,NOT Practicing hygiene/handwashing,1
+Homelessness,Poverty,2
+Homelessness,Government financial support for families,1
+Homelessness,Me feeling worry,3
+People touching things,Me feeling worry,5
+People gathering,NOT People recovering,22
+Young people not feeling at risk,People gathering,13
+Young people not feeling at risk,People dying or getting sick,16
+Young people not feeling at risk,Me feeling worry,10
+Young people not feeling at risk,NOT People recovering,8
+Government financial support for businesses,NOT People losing jobs,4
+Me feeling worry,People dying or getting sick,5
+My personal risk of becoming infected,People losing jobs,1
+My personal risk of becoming infected,NOT People dying or getting sick,3
+My personal risk of becoming infected,People recovering,3
+Me feeling sympathy,NOT People dying or getting sick,1
+People don't understand situation,NOT People dying or getting sick,4
+Poverty,Infected people don't know they are spreading virus,1
+Practicing hygiene/handwashing,My personal risk of becoming infected,5
+People gathering,Herd Immunity (virus cannot spread because many people are immune),2
+Me feeling worry,Infected people don't know they are spreading virus,2
+My support of government recommendations and regulations,Infected people don't know they are spreading virus,1
+People recovering,People dying or getting sick,2
+Curbside carryout (restaurants,My support of government recommendations and regulations,3
+Curbside carryout (restaurants,Me feeling sympathy,1
+Poverty,My support of government recommendations and regulations,1
+People breathing,People gathering,1
+Good hygiene,People gathering,1
+Me feeling worry,My personal risk of becoming infected,3
+Me feeling worry,Social Distancing/ Shelter in Place / Closure of non-essential businesses,3
+My support of government recommendations and regulations,Returning home or to work from infected areas,1
+My support of government recommendations and regulations,Curbside carryout (restaurants,1
+My support of government recommendations and regulations,People affected,1
+My personal risk of becoming infected,People breathing,3
+My personal risk of becoming infected,People affected,1
+My personal risk of becoming infected,Young people not feeling at risk,3
+My personal risk of becoming infected,People touching things,1
+Herd Immunity (virus cannot spread because many people are immune),People dying or getting sick,1
+Herd Immunity (virus cannot spread because many people are immune),Me feeling worry,1
+Herd Immunity (virus cannot spread because many people are immune),My personal risk of becoming infected,1
+Wearing Masks,Me feeling worry,5
+Enough protective gear for first responders/health care workers,People dying or getting sick,1
+Stay-at-home order,People losing jobs,1
+Stay-at-home order,NOT My personal risk of becoming infected,1
+Insufficient amount of treatment equipment and medications,People dying or getting sick,1
+Insufficient amount of treatment equipment and medications,NOT People recovering,1
+My support of government recommendations and regulations,Stay-at-home order,1
+My support of government recommendations and regulations,NOT Insufficient amount of treatment equipment and medications,1
+My support of government recommendations and regulations,People losing jobs,3
+My support of government recommendations and regulations,Economic assistance that the government has made available,1
+Developing a vaccine,Enough protective gear for first responders/health care workers,1
+People not feeling at risk,People dying or getting sick,1
+People not feeling at risk,Me feeling worry,2
+People touching things,Infected people don't know they are spreading virus,1
+Rushes on store products,NOT Physical health (nutrition,1
+Rushes on store products,NOT Me feeling worry,1
+Rushes on store products,NOT Money,1
+Rushes on store products,NOT Effect on daily life,1
+People dying or getting sick,NOT Effect on social Life,1
+People dying or getting sick,NOT Me feeling worry,4
+People dying or getting sick,NOT Effect on daily life,1
+People recovering,Me feeling worry,4
+Video games,Effect on social Life,1
+Video games,Me feeling worry,1
+Video games,NOT Money,1
+Video games,Effect on daily life,1
+Money,NOT Me feeling worry,1
+Working/teaching from home,NOT Effect on social Life,1
+Working/teaching from home,Effect on daily life,1
+Quarantine,Effect on social Life,1
+Quarantine,NOT Rushes on store products,1
+Quarantine,NOT Physical health (nutrition,1
+Quarantine,NOT Me feeling worry,1
+Quarantine,Video games,1
+Quarantine,NOT Effect on daily life,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Rushes on store products,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Money,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Effect on daily life,1
+People gathering,NOT Coronavirus,1
+Coronavirus,NOT People dying or getting sick,1
+My support of government recommendations and regulations,Government financial support for businesses,5
+People recovering,Coronavirus,2
+Developing a vaccine,Things returning to normal,1
+Wearing Masks,Coronavirus,1
+Me feeling sympathy,People dying or getting sick,4
+People don't understand situation,NOT Things returning to normal,1
+People touching things,NOT Coronavirus,1
+People dying or getting sick,Infected people don't know they are spreading virus,1
+People recovering,NOT Access to free healthcare for COVID-19 patients,1
+Developing a vaccine,NOT People recovering,1
+Economic Downturn / Recession,Poverty,6
+Economic Downturn / Recession,Homelessness,6
+My personal risk of becoming infected,People gathering,2
+Me feeling contempt,NOT Young people not feeling at risk,1
+Me feeling contempt,NOT People don't understand situation,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People losing jobs,5
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Curbside carryout (restaurants,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Coordinated,1
+Skewed media coverage,Me feeling contempt,1
+People dying or getting sick,Economic Downturn / Recession,6
+Access to free healthcare for COVID-19 patients,My support of government recommendations and regulations,7
+My personal risk of becoming infected,NOT Put infected people in quarantine,1
+Put infected people in quarantine,NOT People dying or getting sick,8
+Curbside carryout (restaurants,NOT People gathering,1
+Coronavirus,NOT Hospital beds/ventilators,1
+Coronavirus,NOT Economic Downturn / Recession,1
+Coronavirus,NOT Access to healthcare,1
+Coronavirus,Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Government/law enforcement,Hospital beds/ventilators,1
+Government/law enforcement,Economic Downturn / Recession,1
+Government/law enforcement,Access to healthcare,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Coronavirus,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Economic Downturn / Recession,2
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Access to healthcare,1
+Poverty,People dying or getting sick,9
+People gathering,NOT My support of government recommendations and regulations,7
+Infected people don't know they are spreading virus,Wearing Masks,2
+Government financial support for families,NOT Economic Downturn / Recession,3
+People losing jobs,Poverty,8
+My personal risk of becoming infected,NOT Me feeling worry,8
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Economic Downturn / Recession,4
+Me feeling contempt,My personal risk of becoming infected,2
+Young people not feeling at risk,People don't understand situation,1
+Media coverage,Wearing Masks,2
+Media coverage,Coordinated,1
+People going to work,People dying or getting sick,1
+People gathering,COVID-19 testing,1
+Government financial support for businesses,NOT My support of government recommendations and regulations,2
+Media coverage,NOT My support of government recommendations and regulations,1
+Media coverage,People recovering,2
+My support of government recommendations and regulations,Unemployment,1
+Economic Downturn / Recession,Government financial support for families,2
+Curbside carryout (restaurants,People dying or getting sick,1
+Curbside carryout (restaurants,My personal risk of becoming infected,2
+Young people not feeling at risk,People touching things,3
+Quarantine,NOT My personal risk of becoming infected,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Quarantine,1
+Unemployment,Economic Downturn / Recession,1
+Poverty,Economic assistance that the government has made available,2
+Practicing hygiene/handwashing,My support of government recommendations and regulations,7
+People returning home or to work from infected areas,People dying or getting sick,1
+People returning home or to work from infected areas,NOT Economic Downturn / Recession,1
+People returning home or to work from infected areas,NOT Economic assistance that the government has made available,1
+Me feeling worry,Practicing hygiene/handwashing,2
+Me feeling worry,People gathering,6
+Me feeling worry,Wearing Masks,3
+My support of government recommendations and regulations,NOT Wearing Masks,1
+People recovering,COVID-19 testing,3
+COVID-19 testing,Economic assistance that the government has made available,1
+Economic Downturn / Recession,Economic assistance that the government has made available,1
+My personal risk of becoming infected,Asymptomatic people,1
+Economic assistance that the government has made available,NOT Economic Downturn / Recession,1
+People not feeling at risk,NOT People returning home or to work from infected areas,1
+Young people not feeling at risk,Asymptomatic people,1
+Government financial support for businesses,NOT Economic Downturn / Recession,3
+Young people not feeling at risk,Infected people don't know they are spreading virus,5
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Returning home or to work from infected areas,2
+People don't understand situation,NOT Practicing hygiene/handwashing,1
+People don't understand situation,Young people not feeling at risk,3
+People don't understand situation,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,2
+Media coverage,NOT People gathering,1
+Media coverage,Social Distancing/ Shelter in Place / Closure of non-essential businesses,2
+Economic Downturn / Recession,NOT My support of government recommendations and regulations,9
+Wearing Masks,NOT People breathing,2
+Poverty,People gathering,2
+Poverty,NOT My support of government recommendations and regulations,5
+Poverty,NOT People recovering,3
+Poverty,Me feeling sympathy,2
+Practicing hygiene/handwashing,People gathering,1
+Practicing hygiene/handwashing,People touching things,2
+People gathering,My support of government recommendations and regulations,3
+People gathering,Me feeling sympathy,2
+People gathering,People touching things,1
+People breathing,Poverty,1
+People breathing,Practicing hygiene/handwashing,1
+People breathing,NOT People gathering,1
+People breathing,My support of government recommendations and regulations,1
+People breathing,Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+People breathing,Wearing Masks,1
+People breathing,NOT People touching things,1
+Infected people don't know they are spreading virus,Poverty,1
+Infected people don't know they are spreading virus,NOT Practicing hygiene/handwashing,1
+Infected people don't know they are spreading virus,People breathing,2
+Infected people don't know they are spreading virus,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Infected people don't know they are spreading virus,People touching things,1
+COVID-19 testing,Practicing hygiene/handwashing,1
+Returning home or to work from infected areas,Practicing hygiene/handwashing,1
+Returning home or to work from infected areas,People gathering,1
+Returning home or to work from infected areas,People breathing,1
+Returning home or to work from infected areas,Infected people don't know they are spreading virus,2
+Returning home or to work from infected areas,My support of government recommendations and regulations,1
+Returning home or to work from infected areas,NOT People recovering,3
+Returning home or to work from infected areas,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,3
+Returning home or to work from infected areas,Me feeling sympathy,1
+Returning home or to work from infected areas,People touching things,1
+Young people not feeling at risk,NOT Practicing hygiene/handwashing,1
+Young people not feeling at risk,NOT Wearing Masks,2
+Young people not feeling at risk,Me feeling sympathy,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Practicing hygiene/handwashing,1
+Wearing Masks,Practicing hygiene/handwashing,2
+Wearing Masks,People gathering,3
+People dying or getting sick,Coronavirus,1
+My support of government recommendations and regulations,Coronavirus,1
+Curbside carryout (restaurants,People recovering,3
+My personal risk of becoming infected,NOT People gathering,5
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Developing a vaccine,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Homelessness,1
+Poverty,Access to free healthcare for COVID-19 patients,1
+People gathering,Young people not feeling at risk,2
+Government financial support for businesses,Poverty,1
+Government financial support for businesses,People losing jobs,2
+People breathing,Infected people don't know they are spreading virus,3
+Government financial support for families,Poverty,1
+Me feeling worry,Poverty,1
+Me feeling worry,People breathing,1
+Me feeling worry,People losing jobs,2
+Me feeling worry,Young people not feeling at risk,1
+Me feeling worry,People don't understand situation,1
+My support of government recommendations and regulations,Access to free healthcare for COVID-19 patients,3
+People recovering,Access to free healthcare for COVID-19 patients,1
+Access to free healthcare for COVID-19 patients,People dying or getting sick,3
+Access to free healthcare for COVID-19 patients,My personal risk of becoming infected,1
+Poverty,NOT Me feeling worry,1
+People not following the guidelines and protocols related to the COVID-19,People dying or getting sick,3
+People not following the guidelines and protocols related to the COVID-19,Me feeling worry,1
+People gathering,NOT People dying or getting sick,8
+Government financial support for families,People losing jobs,1
+Access to free healthcare for COVID-19 patients,COVID-19 testing,4
+Returning home or to work from infected areas,NOT People dying or getting sick,2
+Young people not feeling at risk,NOT People gathering,1
+People don't understand situation,NOT My personal risk of becoming infected,4
+Poverty,Economic Downturn / Recession,2
+Poverty,Me feeling contempt,3
+People gathering,NOT Poverty,1
+People gathering,NOT Developing a vaccine,1
+People gathering,Economic Downturn / Recession,1
+People gathering,Me feeling contempt,7
+Economic Downturn / Recession,My personal risk of becoming infected,1
+Young people not feeling at risk,Economic Downturn / Recession,2
+Young people not feeling at risk,Me feeling contempt,6
+Wearing Masks,NOT My support of government recommendations and regulations,1
+Wearing Masks,Me feeling contempt,2
+My support of government recommendations and regulations,Me feeling contempt,2
+Economic Downturn / Recession,NOT Me feeling contempt,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Me feeling contempt,1
+Practicing hygiene/handwashing,NOT Me feeling contempt,1
+Timely and reliable information,NOT Me feeling contempt,1
+Infected people don't know they are spreading virus,Me feeling contempt,2
+Curbside carryout (restaurants,NOT People dying or getting sick,2
+Curbside carryout (restaurants,NOT People losing jobs,1
+Curbside carryout (restaurants,NOT Me feeling contempt,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling contempt,3
+People dying,NOT People gathering,1
+People dying,Media coverage,1
+People dying,NOT My support of government recommendations and regulations,1
+People dying,NOT People recovering,1
+People dying,Developing a vaccine,1
+People gathering,People dying,1
+People gathering,People getting sick,1
+People getting sick,People dying,1
+People getting sick,NOT People gathering,1
+People getting sick,Media coverage,1
+People getting sick,Me feeling worry,2
+People getting sick,People recovering,1
+People getting sick,Developing a vaccine,1
+People getting sick,Economic Downturn / Recession,1
+People getting sick,My personal risk of becoming infected,1
+People getting sick,Curbside carryout (restaurants,1
+People getting sick,Homelessness,1
+People recovering,NOT People dying,1
+Developing a vaccine,NOT People dying,1
+Developing a vaccine,NOT People getting sick,1
+Economic Downturn / Recession,Media coverage,1
+Curbside carryout (restaurants,NOT People getting sick,1
+Homelessness,People gathering,1
+Feeling hope,My support of government recommendations and regulations,1
+Feeling hope,People recovering,1
+Mental and emotional health,NOT My support of government recommendations and regulations,1
+Me feeling worry,NOT Mental and emotional health,1
+Me feeling worry,NOT People recovering,5
+Working/teaching from home,My personal risk of becoming infected,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Working/teaching from home,2
+My support of government recommendations and regulations,My personal risk of becoming infected,3
+People losing jobs,People dying or getting sick,2
+Practicing hygiene/handwashing,NOT People getting sick,1
+People breathing,People getting sick,1
+Essential jobs,Wearing Masks,1
+Me feeling worry,NOT Wearing Masks,1
+People getting sick,NOT Wearing Masks,1
+People recovering,Wearing Masks,1
+My personal risk of becoming infected,NOT Wearing Masks,1
+People coming home from college,People gathering,1
+People coming home from college,Essential jobs,1
+People coming home from college,People getting sick,1
+People going non essential shopping,Me feeling worry,1
+People going non essential shopping,People getting sick,1
+People going non essential shopping,My personal risk of becoming infected,1
+My support of government recommendations and regulations,Me feeling worry,4
+People recovering,Me feeling sympathy,2
+People losing jobs,Me feeling sympathy,4
+People don't understand situation,Me feeling contempt,1
+Media coverage,NOT My personal risk of becoming infected,1
+Government financial support for families,People recovering,2
+Ignorance of self isolating and government guidelines,People dying or getting sick,1
+Ignorance of self isolating and government guidelines,My personal risk of becoming infected,1
+Poverty,NOT Homelessness,1
+Practicing hygiene/handwashing,Wearing Masks,1
+Timely and reliable information,Media coverage,2
+Timely and reliable information,NOT People don't understand situation,2
+People gathering,NOT Coordinated,1
+People not following the guidelines and protocols related to the COVID-19,People gathering,1
+People breathing,NOT Me feeling worry,3
+Media coverage,People don't understand situation,1
+Put infected people in quarantine,Help and support from family,1
+People dying or getting sick,NOT People not following the guidelines and protocols related to the COVID-19,1
+People dying or getting sick,COVID-19 testing,5
+My support of government recommendations and regulations,Media coverage,4
+COVID-19 testing,Coordinated,1
+People losing jobs,NOT Poverty,1
+Economic Downturn / Recession,Curbside carryout (restaurants,1
+Economic Downturn / Recession,Working/teaching from home,1
+Economic Downturn / Recession,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+My personal risk of becoming infected,NOT People not following the guidelines and protocols related to the COVID-19,1
+My personal risk of becoming infected,NOT People breathing,2
+My personal risk of becoming infected,NOT People touching things,1
+Working/teaching from home,Curbside carryout (restaurants,1
+People don't understand situation,NOT People losing jobs,1
+People don't understand situation,NOT Economic Downturn / Recession,1
+People don't understand situation,NOT Coordinated,1
+Coordinated,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+People breathing,Me feeling contempt,1
+Less people dying/getting sick,Feeling hope,1
+My wanting to stay inside to prevent getting sick,People recovering,1
+People dying or getting sick,My wanting to stay inside to prevent getting sick,1
+Things returning to normal,Feeling hope,1
+People recovering,Society getting healthier as a whole,1
+My personal risk of becoming infected,Risk of getting my family/loved ones sick,1
+Risk of getting my family/loved ones sick,Me feeling contempt,1
+Risk of getting my family/loved ones sick,Me feeling sympathy,1
+Society getting healthier as a whole,Less people dying/getting sick,1
+Society getting healthier as a whole,Things returning to normal,1
+Me feeling sympathy,My wanting to stay inside to prevent getting sick,1
+People gathering,NOT Banning safe activities,1
+People dying or getting sick,NOT People gathering,5
+Preventative measures,People gathering,1
+Preventative measures,People recovering,1
+Preventative measures,NOT My personal risk of becoming infected,1
+People recovering,People gathering,4
+Financial help,People gathering,1
+Financial help,My support of government recommendations and regulations,1
+Financial help,NOT My personal risk of becoming infected,1
+Financial help,NOT Me feeling contempt,1
+Banning safe activities,NOT My support of government recommendations and regulations,1
+Banning safe activities,Me feeling contempt,1
+People breathing,People touching things,1
+People dying or getting sick,Developing a vaccine,2
+My support of government recommendations and regulations,Poverty,2
+My support of government recommendations and regulations,People don't understand situation,1
+My personal risk of becoming infected,NOT People don't understand situation,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Me feeling worry,3
+Media coverage,NOT Me feeling worry,2
+Infected people don't know they are spreading virus,People losing jobs,1
+COVID-19 testing,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Practicing hygiene/handwashing,Returning home or to work from infected areas,1
+Timely and reliable information,Economic Downturn / Recession,3
+Timely and reliable information,People don't understand situation,2
+Infected people don't know they are spreading virus,NOT COVID-19 testing,2
+My support of government recommendations and regulations,NOT COVID-19 testing,1
+People recovering,Social Distancing/ Shelter in Place / Closure of non-essential businesses,5
+COVID-19 testing,NOT Media coverage,1
+People losing jobs,NOT Government financial support for families,1
+Returning home or to work from infected areas,NOT Infected people don't know they are spreading virus,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Wearing Masks,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Herd Immunity (virus cannot spread because many people are immune),1
+People don't understand situation,NOT Wearing Masks,1
+Put infected people in quarantine,NOT People touching things,1
+People dying or getting sick,Put infected people in quarantine,4
+Access to free healthcare for COVID-19 patients,Put infected people in quarantine,1
+People touching things,Practicing hygiene/handwashing,1
+Practicing hygiene/handwashing,People dying or getting sick,3
+Infected people don't know they are spreading virus,People don't understand situation,1
+Access to free healthcare for COVID-19 patients,Developing a vaccine,1
+Developing a vaccine,People dying or getting sick,4
+Developing a vaccine,My personal risk of becoming infected,3
+Curbside carryout (restaurants,Government financial support for businesses,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My personal risk of becoming infected,7
+Wearing Masks,People dying or getting sick,3
+Herd Immunity (virus cannot spread because many people are immune),People recovering,1
+People gathering,NOT Put infected people in quarantine,1
+My support of government recommendations and regulations,Me feeling sympathy,1
+Economic Downturn / Recession,NOT Returning home or to work from infected areas,2
+Economic Downturn / Recession,NOT Coordinated,1
+My personal risk of becoming infected,Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Me feeling sympathy,My support of government recommendations and regulations,2
+Coordinated,Social Distancing/ Shelter in Place / Closure of non-essential businesses,2
+Government financial support for businesses,NOT Me feeling contempt,2
+People dying or getting sick,Poverty,1
+People dying or getting sick,NOT Developing a vaccine,2
+People dying or getting sick,NOT COVID-19 testing,1
+People dying or getting sick,NOT Young people not feeling at risk,2
+People dying or getting sick,Homelessness,2
+People dying or getting sick,NOT People touching things,2
+My support of government recommendations and regulations,People gathering,2
+My support of government recommendations and regulations,Young people not feeling at risk,1
+People recovering,NOT Poverty,1
+People recovering,Government financial support for businesses,1
+People recovering,Developing a vaccine,3
+People recovering,NOT People losing jobs,2
+People recovering,NOT Returning home or to work from infected areas,3
+People recovering,Me feeling contempt,1
+People recovering,NOT Young people not feeling at risk,1
+People recovering,Homelessness,1
+People recovering,NOT People touching things,1
+Developing a vaccine,NOT Me feeling contempt,4
+COVID-19 testing,NOT Me feeling contempt,2
+People losing jobs,NOT My support of government recommendations and regulations,7
+Returning home or to work from infected areas,NOT My personal risk of becoming infected,5
+Returning home or to work from infected areas,Me feeling contempt,1
+Economic Downturn / Recession,Me feeling contempt,1
+My personal risk of becoming infected,Me feeling contempt,2
+My personal risk of becoming infected,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,2
+Me feeling contempt,People dying or getting sick,1
+Young people not feeling at risk,Developing a vaccine,2
+Poverty,People don't understand situation,3
+Poverty,Homelessness,1
+Timely and reliable information,Wearing Masks,1
+Infected people don't know they are spreading virus,Young people not feeling at risk,2
+Put infected people in quarantine,NOT People gathering,2
+Developing a vaccine,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+COVID-19 testing,NOT Young people not feeling at risk,1
+Curbside carryout (restaurants,Me feeling worry,2
+People don't understand situation,Homelessness,1
+Homelessness,People don't understand situation,1
+Coordinated,Economic Downturn / Recession,2
+Herd Immunity (virus cannot spread because many people are immune),NOT Me feeling worry,1
+Herd Immunity (virus cannot spread because many people are immune),NOT Economic Downturn / Recession,1
+Timely and reliable information,NOT My support of government recommendations and regulations,2
+People dying or getting sick,NOT Coronavirus,1
+My support of government recommendations and regulations,NOT Coronavirus,1
+People recovering,NOT Coronavirus,1
+Developing a vaccine,NOT My support of government recommendations and regulations,3
+COVID-19 testing,Access to free healthcare for COVID-19 patients,2
+COVID-19 testing,Developing a vaccine,2
+People losing jobs,NOT Me feeling worry,3
+People losing jobs,NOT Curbside carryout (restaurants,1
+My personal risk of becoming infected,NOT Coronavirus,1
+Young people not feeling at risk,NOT My personal risk of becoming infected,4
+Timely and reliable information,NOT Young people not feeling at risk,1
+My support of government recommendations and regulations,NOT People gathering,1
+My support of government recommendations and regulations,NOT Returning home or to work from infected areas,1
+COVID-19 testing,Social Distancing/ Shelter in Place / Closure of non-essential businesses,2
+People don't understand situation,NOT People recovering,3
+People don't understand situation,Returning home or to work from infected areas,1
+Young people not feeling at risk,NOT My support of government recommendations and regulations,3
+People dying or getting sick,How long the virus lasts,1
+How long the virus lasts,People dying or getting sick,1
+How long the virus lasts,Me feeling worry,1
+How long the virus lasts,My support of government recommendations and regulations,1
+How long the virus lasts,Developing a vaccine,1
+How long the virus lasts,People losing jobs,1
+How long the virus lasts,My personal risk of becoming infected,1
+My support of government recommendations and regulations,NOT How long the virus lasts,1
+My support of government recommendations and regulations,NOT People touching things,1
+People recovering,NOT How long the virus lasts,1
+People recovering,Young people not feeling at risk,1
+Developing a vaccine,NOT How long the virus lasts,1
+People losing jobs,Developing a vaccine,1
+My personal risk of becoming infected,Developing a vaccine,1
+Young people not feeling at risk,How long the virus lasts,1
+Young people not feeling at risk,People losing jobs,1
+People touching things,How long the virus lasts,1
+People touching things,Developing a vaccine,1
+People touching things,People losing jobs,1
+People gathering,People not following the guidelines and protocols related to the COVID-19,1
+Trump ignoring what scientists said about COVID-19,People dying or getting sick,1
+Cancellation of sporting events/concerts,Me feeling worry,1
+Wearing PPE,NOT My personal risk of becoming infected,1
+My support of government recommendations and regulations,Wearing PPE,1
+Young people not feeling at risk,People not following the guidelines and protocols related to the COVID-19,1
+Timely and reliable information,People dying or getting sick,1
+Government financial support for families,People dying or getting sick,1
+Government financial support for families,COVID-19 testing,1
+My support of government recommendations and regulations,NOT Access to free healthcare for COVID-19 patients,1
+My personal risk of becoming infected,Wearing Masks,1
+Poverty,NOT Economic Downturn / Recession,1
+Put infected people in quarantine,People touching things,1
+People dying or getting sick,NOT People losing jobs,1
+My support of government recommendations and regulations,People dying or getting sick,1
+My support of government recommendations and regulations,Coordinated,1
+Developing a vaccine,NOT Government financial support for families,1
+People losing jobs,NOT Homelessness,1
+Economic Downturn / Recession,NOT Developing a vaccine,1
+Young people not feeling at risk,NOT People dying or getting sick,4
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People losing jobs,1
+Me feeling sympathy,People losing jobs,2
+Homelessness,NOT Poverty,2
+Coordinated,People dying or getting sick,1
+People touching things,NOT People dying or getting sick,4
+people staying home,NOT My personal risk of becoming infected,1
+Media coverage,people staying home,1
+Infected people don't know they are spreading virus,people staying home,1
+Infected people don't know they are spreading virus,NOT People breathing,1
+People dying or getting sick,NOT People breathing,1
+My support of government recommendations and regulations,Developing a vaccine,4
+My support of government recommendations and regulations,NOT Economic Downturn / Recession,2
+People don't understand situation,NOT My support of government recommendations and regulations,1
+People touching things,NOT My personal risk of becoming infected,5
+Mental health issues,Me feeling worry,1
+Fear of unemployment,Poverty,1
+Fear of unemployment,Mental health issues,1
+Fear of unemployment,Infected people don't know they are spreading virus,1
+Fear of unemployment,Me feeling worry,1
+Fear of unemployment,NOT People recovering,1
+Fear of unemployment,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Lack of testing,Infected people don't know they are spreading virus,1
+Lack of testing,NOT My support of government recommendations and regulations,2
+Lack of research/understanding COVID-19,People dying or getting sick,1
+Lack of research/understanding COVID-19,Me feeling worry,1
+Lack of research/understanding COVID-19,NOT My support of government recommendations and regulations,1
+Lack of research/understanding COVID-19,My personal risk of becoming infected,1
+Price gauging,People dying or getting sick,1
+Price gauging,NOT My support of government recommendations and regulations,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Mental health issues,1
+Funding housing to house homeless people,NOT People dying or getting sick,1
+Funding housing to house homeless people,My support of government recommendations and regulations,1
+People recovering,My personal risk of becoming infected,2
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Media coverage,2
+People dying or getting sick,People touching things,1
+My personal risk of becoming infected,NOT Developing a vaccine,1
+Government financial support for businesses,NOT Me feeling sympathy,1
+Government financial support for families,NOT Poverty,2
+Government financial support for families,NOT Me feeling sympathy,2
+Economic Downturn / Recession,Me feeling sympathy,2
+COVID-19 testing,NOT People gathering,1
+Infected people don't know they are spreading virus,NOT My personal risk of becoming infected,3
+My support of government recommendations and regulations,NOT Infected people don't know they are spreading virus,1
+Returning home or to work from infected areas,NOT People breathing,1
+Returning home or to work from infected areas,NOT Me feeling worry,2
+People don't understand situation,NOT Developing a vaccine,1
+People gathering,People breathing,2
+Media coverage,NOT People don't understand situation,2
+My personal risk of becoming infected,NOT Practicing hygiene/handwashing,1
+Economic assistance that the government has made available,NOT Poverty,1
+Young people not feeling at risk,My support of government recommendations and regulations,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Economic assistance that the government has made available,1
+Me feeling sympathy,NOT People recovering,1
+People don't understand situation,Media coverage,1
+Timely and reliable information,NOT My personal risk of becoming infected,1
+Put infected people in quarantine,My support of government recommendations and regulations,2
+Economic Downturn / Recession,NOT Me feeling worry,3
+My personal risk of becoming infected,NOT People recovering,2
+Poverty,NOT COVID-19 testing,1
+Poverty,My personal risk of becoming infected,2
+My support of government recommendations and regulations,NOT Me feeling contempt,1
+People recovering,NOT My support of government recommendations and regulations,1
+Timely and reliable information,People understanding the situation and following regulations,1
+Media coverage,Me feeling sympathy,1
+People understanding the situation and following regulations,Less people dying/getting sick,1
+People understanding the situation and following regulations,NOT People dying or getting sick,1
+People recovering,Less people dying/getting sick,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Less people dying/getting sick,1
+Wearing Masks,Less people dying/getting sick,1
+Coordinated,Less people dying/getting sick,1
+Asymptomatic people,People dying or getting sick,1
+Asymptomatic people,My support of government recommendations and regulations,1
+Quarantine,NOT People dying or getting sick,1
+People breathing,NOT My personal risk of becoming infected,2
+Infected people don't know they are spreading virus,NOT People dying or getting sick,2
+Infected people don't know they are spreading virus,NOT Me feeling worry,1
+People dying or getting sick,NOT Infected people don't know they are spreading virus,1
+Me feeling worry,NOT People breathing,1
+People dying or getting sick,People don't understand situation,1
+Me feeling worry,Economic Downturn / Recession,2
+People recovering,NOT COVID-19 testing,2
+People recovering,People don't understand situation,1
+Developing a vaccine,NOT COVID-19 testing,1
+My personal risk of becoming infected,People don't understand situation,1
+Homelessness,Economic Downturn / Recession,1
+Practicing hygiene/handwashing,NOT Infected people don't know they are spreading virus,1
+My support of government recommendations and regulations,Quarantine,1
+People recovering,Access to healthcare,1
+Quarantine,Mental health issues,1
+Quarantine,Me feeling worry,1
+Access to healthcare,People recovering,1
+Homelessness,NOT Access to healthcare,1
+Practicing hygiene/handwashing,Me feeling worry,1
+People gathering,NOT Me feeling worry,1
+People gathering,NOT My personal risk of becoming infected,3
+People gathering,NOT Homelessness,1
+Young people not feeling at risk,NOT Me feeling worry,1
+People don't understand situation,NOT Me feeling worry,2
+People don't understand situation,NOT Young people not feeling at risk,1
+Homelessness,NOT My support of government recommendations and regulations,1
+People touching things,NOT Me feeling worry,1
+COVID-19 testing,NOT My support of government recommendations and regulations,1
+Economic Downturn / Recession,People dying or getting sick,2
+Economic Downturn / Recession,Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Me feeling sympathy,Poverty,1
+Me feeling sympathy,Economic Downturn / Recession,1
+People gathering,COVID-19 cases,1
+People dying or getting sick,COVID-19 cases,1
+My support of government recommendations and regulations,NOT COVID-19 cases,1
+People recovering,NOT COVID-19 cases,1
+Access to free healthcare for COVID-19 patients,NOT COVID-19 cases,1
+COVID-19 testing,COVID-19 cases,1
+Returning home or to work from infected areas,COVID-19 cases,1
+Wearing Masks,NOT COVID-19 cases,1
+People touching things,COVID-19 cases,1
+Developing a vaccine,People gathering,3
+Young people not feeling at risk,NOT Economic Downturn / Recession,1
+People dying or getting sick,NOT Economic Downturn / Recession,1
+People dying or getting sick,NOT Me feeling sympathy,2
+Government financial support for families,NOT My support of government recommendations and regulations,1
+People recovering,Herd Immunity (virus cannot spread because many people are immune),2
+Economic Downturn / Recession,NOT Poverty,1
+Economic Downturn / Recession,Government financial support for businesses,1
+Economic Downturn / Recession,NOT Me feeling sympathy,1
+Economic Downturn / Recession,NOT Homelessness,1
+Timely and reliable information,Infected people don't know they are spreading virus,1
+Timely and reliable information,Me feeling worry,1
+People gathering,NOT People touching things,2
+Government financial support for businesses,Economic Downturn / Recession,2
+Media coverage,NOT People losing jobs,1
+Media coverage,NOT Economic Downturn / Recession,1
+Media coverage,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Infected people don't know they are spreading virus,NOT My support of government recommendations and regulations,1
+Infected people don't know they are spreading virus,NOT People touching things,1
+My support of government recommendations and regulations,Economic Downturn / Recession,1
+Developing a vaccine,Me feeling worry,2
+Developing a vaccine,Economic Downturn / Recession,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People gathering,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People touching things,1
+People don't understand situation,NOT People gathering,1
+People don't understand situation,NOT People touching things,1
+Coordinated,Timely and reliable information,1
+Coordinated,Me feeling worry,1
+Coordinated,People losing jobs,1
+Coordinated,People don't understand situation,1
+People touching things,NOT People losing jobs,1
+My personal risk of becoming infected,NOT Me feeling sympathy,1
+Curbside carryout (restaurants,Me feeling contempt,1
+People touching things,NOT My support of government recommendations and regulations,1
+Practicing hygiene/handwashing,Spreading the virus,1
+People breathing,NOT Spreading the virus,1
+Spreading the virus,NOT People gathering,1
+Spreading the virus,NOT People dying or getting sick,1
+Spreading the virus,NOT My personal risk of becoming infected,1
+People losing jobs,NOT Economic Downturn / Recession,1
+People losing jobs,NOT People don't understand situation,1
+Curbside carryout (restaurants,Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Spreading the virus,1
+Wearing Masks,Spreading the virus,1
+People touching things,NOT Spreading the virus,1
+People not following the guidelines and protocols related to the COVID-19,Infected people don't know they are spreading virus,1
+People not following the guidelines and protocols related to the COVID-19,My support of government recommendations and regulations,1
+People not following the guidelines and protocols related to the COVID-19,NOT Me feeling sympathy,1
+US government's late response to virus control,Infected people don't know they are spreading virus,1
+US government's late response to virus control,People dying or getting sick,1
+US government's late response to virus control,My support of government recommendations and regulations,1
+US government's late response to virus control,My personal risk of becoming infected,1
+People dying or getting sick,NOT Feeling hope,1
+Lack of testing,People dying or getting sick,1
+Lack of testing,Feeling hope,1
+Lack of testing,My personal risk of becoming infected,1
+Lack of testing,Me feeling sympathy,1
+People gathering,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Put infected people in quarantine,Social Distancing/ Shelter in Place / Closure of non-essential businesses,2
+My support of government recommendations and regulations,Put infected people in quarantine,1
+Timely and reliable information,Me feeling sympathy,1
+Developing a vaccine,NOT Media coverage,1
+Coordinated,NOT My support of government recommendations and regulations,1
+Timely and reliable information,Practicing hygiene/handwashing,1
+Timely and reliable information,NOT Returning home or to work from infected areas,1
+Timely and reliable information,NOT Economic Downturn / Recession,1
+Put infected people in quarantine,Economic Downturn / Recession,2
+Returning home or to work from infected areas,NOT Put infected people in quarantine,1
+Economic Downturn / Recession,NOT COVID-19 testing,1
+Coordinated,NOT Young people not feeling at risk,1
+Homelessness,NOT Put infected people in quarantine,1
+People dying or getting sick,NOT Media coverage,1
+Returning home or to work from infected areas,NOT My support of government recommendations and regulations,1
+Young people not feeling at risk,NOT Media coverage,1
+Poverty,NOT Economy,1
+People dying or getting sick,NOT Economy,1
+Government financial support for families,Economy,1
+People recovering,Economy,1
+Developing a vaccine,Economy,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Economy,1
+Wearing Masks,Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Put infected people in quarantine,My personal risk of becoming infected,1
+COVID-19 testing,My personal risk of becoming infected,1
+Poverty,NOT Put infected people in quarantine,1
+Media coverage,Put infected people in quarantine,1
+People dying or getting sick,People breathing,1
+People don't understand situation,People breathing,1
+Poverty,NOT People losing jobs,1
+Poverty,NOT Me feeling contempt,1
+Practicing hygiene/handwashing,Curbside carryout (restaurants,1
+Mental health issues,NOT Me feeling worry,1
+Mental health issues,NOT Returning home or to work from infected areas,1
+Mental health issues,NOT Young people not feeling at risk,1
+Mental health issues,NOT Homelessness,1
+People gathering,NOT People don't understand situation,1
+Me feeling worry,Media coverage,1
+My personal risk of becoming infected,NOT Returning home or to work from infected areas,1
+My personal risk of becoming infected,NOT Young people not feeling at risk,1
+Me feeling contempt,NOT Me feeling sympathy,1
+Homelessness,NOT Me feeling sympathy,1
+People recovering,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+People dying or getting sick,NOT Things returning to normal,1
+Me feeling worry,NOT Me feeling worry,1
+My support of government recommendations and regulations,My support of government recommendations and regulations,1
+People recovering,Things returning to normal,1
+People recovering,People recovering,1
+My personal risk of becoming infected,NOT Things returning to normal,1
+Ignorance of self isolating and government guidelines,NOT My personal risk of becoming infected,1
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Social Distancing/ Shelter in Place / Closure of non-essential businesses,1
+Not having a timeline when this virus will all be over,NOT Things returning to normal,1
+Not having a timeline when this virus will all be over,NOT People recovering,1
+Developing a vaccine,NOT Returning home or to work from infected areas,1
+Returning home or to work from infected areas,NOT People gathering,1

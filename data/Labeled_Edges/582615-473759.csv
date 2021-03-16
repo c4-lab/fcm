@@ -1,0 +1,77 @@
+Source,Target
+Poverty,People gathering
+Poverty,NOT My support of government recommendations and regulations
+Poverty,NOT People recovering
+Poverty,Me feeling sympathy
+Practicing hygiene/handwashing,People gathering
+Practicing hygiene/handwashing,NOT People dying or getting sick
+Practicing hygiene/handwashing,People recovering
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected
+Practicing hygiene/handwashing,People touching things
+People gathering,People dying or getting sick
+People gathering,My support of government recommendations and regulations
+People gathering,NOT People recovering
+People gathering,My personal risk of becoming infected
+People gathering,Me feeling sympathy
+People gathering,People touching things
+People breathing,Poverty
+People breathing,Practicing hygiene/handwashing
+People breathing,NOT People gathering
+People breathing,People dying or getting sick
+People breathing,My support of government recommendations and regulations
+People breathing,NOT People recovering
+People breathing,My personal risk of becoming infected
+People breathing,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People breathing,Wearing Masks
+People breathing,NOT People touching things
+Infected people don't know they are spreading virus,Poverty
+Infected people don't know they are spreading virus,NOT Practicing hygiene/handwashing
+Infected people don't know they are spreading virus,People gathering
+Infected people don't know they are spreading virus,People breathing
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,NOT People recovering
+Infected people don't know they are spreading virus,My personal risk of becoming infected
+Infected people don't know they are spreading virus,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Infected people don't know they are spreading virus,Me feeling sympathy
+Infected people don't know they are spreading virus,People touching things
+COVID-19 testing,Practicing hygiene/handwashing
+COVID-19 testing,NOT People dying or getting sick
+COVID-19 testing,My support of government recommendations and regulations
+COVID-19 testing,People recovering
+COVID-19 testing,NOT My personal risk of becoming infected
+Returning home or to work from infected areas,Practicing hygiene/handwashing
+Returning home or to work from infected areas,People gathering
+Returning home or to work from infected areas,People breathing
+Returning home or to work from infected areas,Infected people don't know they are spreading virus
+Returning home or to work from infected areas,People dying or getting sick
+Returning home or to work from infected areas,My support of government recommendations and regulations
+Returning home or to work from infected areas,NOT People recovering
+Returning home or to work from infected areas,My personal risk of becoming infected
+Returning home or to work from infected areas,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Returning home or to work from infected areas,Me feeling sympathy
+Returning home or to work from infected areas,People touching things
+Young people not feeling at risk,NOT Practicing hygiene/handwashing
+Young people not feeling at risk,People gathering
+Young people not feeling at risk,Infected people don't know they are spreading virus
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,NOT People recovering
+Young people not feeling at risk,My personal risk of becoming infected
+Young people not feeling at risk,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Young people not feeling at risk,NOT Wearing Masks
+Young people not feeling at risk,Me feeling sympathy
+Young people not feeling at risk,People touching things
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Practicing hygiene/handwashing
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People touching things
+Wearing Masks,Practicing hygiene/handwashing
+Wearing Masks,People gathering
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,People recovering
+Wearing Masks,NOT My personal risk of becoming infected
+People touching things,People dying or getting sick
+People touching things,NOT People recovering
+People touching things,My personal risk of becoming infected

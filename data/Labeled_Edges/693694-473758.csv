@@ -1,0 +1,29 @@
+Source,Target
+Poverty,People dying or getting sick
+Poverty,NOT People recovering
+Mental health issues,Me feeling worry
+Fear of unemployment,Poverty
+Fear of unemployment,Mental health issues
+Fear of unemployment,Infected people don't know they are spreading virus
+Fear of unemployment,Me feeling worry
+Fear of unemployment,NOT People recovering
+Fear of unemployment,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,Me feeling worry
+Infected people don't know they are spreading virus,My personal risk of becoming infected
+Lack of testing,Infected people don't know they are spreading virus
+Lack of testing,NOT My support of government recommendations and regulations
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,My support of government recommendations and regulations
+Lack of research/understanding COVID-19,People dying or getting sick
+Lack of research/understanding COVID-19,Me feeling worry
+Lack of research/understanding COVID-19,NOT My support of government recommendations and regulations
+Lack of research/understanding COVID-19,My personal risk of becoming infected
+Price gauging,People dying or getting sick
+Price gauging,NOT My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Mental health issues
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Infected people don't know they are spreading virus
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Funding housing to house homeless people,NOT People dying or getting sick
+Funding housing to house homeless people,My support of government recommendations and regulations

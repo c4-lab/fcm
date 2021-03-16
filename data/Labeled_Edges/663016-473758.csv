@@ -1,0 +1,42 @@
+Source,Target
+Poverty,Government financial support for families
+Practicing hygiene/handwashing,People dying or getting sick
+Practicing hygiene/handwashing,My support of government recommendations and regulations
+Practicing hygiene/handwashing,My personal risk of becoming infected
+Timely and reliable information,NOT People dying or getting sick
+People gathering,People dying or getting sick
+People gathering,NOT People recovering
+People gathering,My personal risk of becoming infected
+Government financial support for businesses,My support of government recommendations and regulations
+People breathing,People dying or getting sick
+People breathing,Me feeling worry
+Infected people don't know they are spreading virus,Me feeling worry
+Infected people don't know they are spreading virus,My personal risk of becoming infected
+Infected people don't know they are spreading virus,People don't understand situation
+Put infected people in quarantine,NOT People dying or getting sick
+Put infected people in quarantine,People recovering
+Put infected people in quarantine,NOT My personal risk of becoming infected
+People dying or getting sick,Me feeling worry
+Government financial support for families,Me feeling worry
+Government financial support for families,My support of government recommendations and regulations
+Access to free healthcare for COVID-19 patients,People dying or getting sick
+Access to free healthcare for COVID-19 patients,Developing a vaccine
+Developing a vaccine,People dying or getting sick
+Developing a vaccine,My personal risk of becoming infected
+COVID-19 testing,Infected people don't know they are spreading virus
+COVID-19 testing,People dying or getting sick
+Returning home or to work from infected areas,My personal risk of becoming infected
+My personal risk of becoming infected,Me feeling worry
+Curbside carryout (restaurants,Government financial support for businesses
+Curbside carryout (restaurants,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My personal risk of becoming infected
+Wearing Masks,People dying or getting sick
+People don't understand situation,Me feeling worry
+Coordinated,My support of government recommendations and regulations
+Coordinated,NOT My personal risk of becoming infected
+Herd Immunity (virus cannot spread because many people are immune),People recovering
+People touching things,People dying or getting sick
+People touching things,My personal risk of becoming infected

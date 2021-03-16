@@ -1,0 +1,42 @@
+Source,Target
+Poverty,NOT Put infected people in quarantine
+Poverty,Economic Downturn / Recession
+Poverty,People don't understand situation
+Practicing hygiene/handwashing,People recovering
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected
+Timely and reliable information,People recovering
+People gathering,NOT People dying or getting sick
+People gathering,NOT People recovering
+Government financial support for businesses,My support of government recommendations and regulations
+Government financial support for businesses,NOT People losing jobs
+Government financial support for businesses,NOT Me feeling contempt
+People breathing,People dying or getting sick
+Media coverage,Timely and reliable information
+Media coverage,Put infected people in quarantine
+Media coverage,My support of government recommendations and regulations
+Infected people don't know they are spreading virus,People dying or getting sick
+Put infected people in quarantine,My support of government recommendations and regulations
+Put infected people in quarantine,People recovering
+Put infected people in quarantine,Economic Downturn / Recession
+People dying or getting sick,People breathing
+People dying or getting sick,NOT People recovering
+People dying or getting sick,Me feeling contempt
+Government financial support for families,My support of government recommendations and regulations
+Government financial support for families,NOT People losing jobs
+Government financial support for families,NOT Me feeling contempt
+My support of government recommendations and regulations,NOT People dying or getting sick
+My support of government recommendations and regulations,COVID-19 testing
+People recovering,NOT Me feeling contempt
+Access to free healthcare for COVID-19 patients,My support of government recommendations and regulations
+COVID-19 testing,NOT People dying or getting sick
+COVID-19 testing,People recovering
+COVID-19 testing,NOT Me feeling contempt
+Me feeling contempt,My personal risk of becoming infected
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,NOT My support of government recommendations and regulations
+Young people not feeling at risk,My personal risk of becoming infected
+Young people not feeling at risk,Me feeling contempt
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+People don't understand situation,People breathing
+People don't understand situation,People dying or getting sick
+People touching things,People dying or getting sick

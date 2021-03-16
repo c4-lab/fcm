@@ -1,0 +1,18 @@
+Source,Target
+Timely and reliable information,NOT Me feeling worry
+Timely and reliable information,My support of government recommendations and regulations
+People gathering,People dying or getting sick
+People gathering,NOT People recovering
+Infected people don't know they are spreading virus,People dying or getting sick
+People dying or getting sick,NOT My support of government recommendations and regulations
+Me feeling worry,NOT People recovering
+My support of government recommendations and regulations,NOT My personal risk of becoming infected
+People recovering,My support of government recommendations and regulations
+People losing jobs,Me feeling worry
+People losing jobs,NOT My support of government recommendations and regulations
+Young people not feeling at risk,Me feeling worry
+Young people not feeling at risk,My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Wearing Masks,NOT My personal risk of becoming infected
+People touching things,My personal risk of becoming infected

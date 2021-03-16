@@ -1,0 +1,28 @@
+Source,Target
+People gathering,People dying or getting sick
+Put infected people in quarantine,People recovering
+People dying or getting sick,Me feeling worry
+My support of government recommendations and regulations,NOT Me feeling worry
+My support of government recommendations and regulations,NOT My personal risk of becoming infected
+People recovering,NOT Me feeling worry
+People recovering,My support of government recommendations and regulations
+People recovering,NOT My personal risk of becoming infected
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,My support of government recommendations and regulations
+Developing a vaccine,NOT My personal risk of becoming infected
+COVID-19 testing,Put infected people in quarantine
+COVID-19 testing,NOT People dying or getting sick
+COVID-19 testing,NOT Me feeling worry
+COVID-19 testing,My support of government recommendations and regulations
+COVID-19 testing,People recovering
+COVID-19 testing,NOT My personal risk of becoming infected
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,NOT Me feeling worry
+Wearing Masks,My support of government recommendations and regulations
+Wearing Masks,NOT My personal risk of becoming infected
+People don't understand situation,People gathering
+People don't understand situation,People dying or getting sick
+People don't understand situation,Me feeling worry
+People don't understand situation,NOT COVID-19 testing
+People don't understand situation,My personal risk of becoming infected

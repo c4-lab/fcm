@@ -1,0 +1,39 @@
+Source,Target
+Number of essential workers,Uncertainty (health
+Number of essential workers,People touching things
+Practicing hygiene/handwashing,NOT People dying or getting sick
+Practicing hygiene/handwashing,People recovering
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected
+Media coverage,Uncertainty (health
+Media coverage,My support of government recommendations and regulations
+Media coverage,Me feeling contempt
+Media coverage,NOT People touching things
+People dying or getting sick,Practicing hygiene/handwashing
+People dying or getting sick,Media coverage
+People dying or getting sick,My support of government recommendations and regulations
+People dying or getting sick,People losing jobs
+People dying or getting sick,My personal risk of becoming infected
+People dying or getting sick,Me feeling contempt
+People dying or getting sick,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Uncertainty (health,My support of government recommendations and regulations
+Uncertainty (health,Me feeling contempt
+Government financial support for families,NOT Me feeling contempt
+My support of government recommendations and regulations,Practicing hygiene/handwashing
+People recovering,NOT Uncertainty (health
+People recovering,NOT Me feeling contempt
+People losing jobs,Uncertainty (health
+People losing jobs,Government financial support for families
+People losing jobs,Me feeling contempt
+People losing jobs,More free schedule
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Uncertainty (health
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People touching things
+More free schedule,NOT Me feeling contempt
+Coordinated,NOT People dying or getting sick
+Coordinated,Government financial support for families
+Coordinated,NOT Me feeling contempt
+People touching things,People dying or getting sick
+People touching things,My support of government recommendations and regulations
+People touching things,NOT People recovering
+People touching things,My personal risk of becoming infected
+People touching things,Me feeling contempt

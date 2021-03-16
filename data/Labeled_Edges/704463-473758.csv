@@ -1,0 +1,34 @@
+Source,Target
+Practicing hygiene/handwashing,NOT Me feeling worry
+Practicing hygiene/handwashing,People recovering
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected
+People gathering,NOT People dying or getting sick
+People gathering,Me feeling worry
+People gathering,My support of government recommendations and regulations
+People gathering,NOT People recovering
+People gathering,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People gathering,Wearing Masks
+Put infected people in quarantine,NOT People dying or getting sick
+Put infected people in quarantine,NOT Me feeling worry
+Put infected people in quarantine,People recovering
+Put infected people in quarantine,NOT My personal risk of becoming infected
+Put infected people in quarantine,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People dying or getting sick,Me feeling worry
+People dying or getting sick,My personal risk of becoming infected
+My support of government recommendations and regulations,Put infected people in quarantine
+My support of government recommendations and regulations,COVID-19 testing
+My support of government recommendations and regulations,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+My support of government recommendations and regulations,Wearing Masks
+People recovering,NOT Me feeling worry
+COVID-19 testing,Put infected people in quarantine
+COVID-19 testing,NOT People dying or getting sick
+COVID-19 testing,NOT Me feeling worry
+COVID-19 testing,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,NOT Me feeling worry
+Wearing Masks,People recovering
+Wearing Masks,NOT My personal risk of becoming infected

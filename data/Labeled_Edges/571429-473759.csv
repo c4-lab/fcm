@@ -1,0 +1,23 @@
+Source,Target
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected
+People gathering,People dying or getting sick
+People gathering,My personal risk of becoming infected
+People breathing,Me feeling worry
+Put infected people in quarantine,NOT People dying or getting sick
+Put infected people in quarantine,NOT Me feeling worry
+Put infected people in quarantine,People recovering
+Put infected people in quarantine,NOT My personal risk of becoming infected
+People dying or getting sick,Me feeling worry
+People recovering,NOT Me feeling worry
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,My support of government recommendations and regulations
+Developing a vaccine,People recovering
+Curbside carryout (restaurants,NOT People gathering
+Curbside carryout (restaurants,NOT Me feeling worry
+Young people not feeling at risk,People gathering
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,NOT People recovering
+Young people not feeling at risk,My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Wearing Masks,NOT Me feeling worry
+People touching things,Me feeling worry

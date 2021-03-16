@@ -1,0 +1,18 @@
+Source,Target
+People breathing,People dying or getting sick
+People breathing,My personal risk of becoming infected
+People breathing,Me feeling contempt
+Less people dying/getting sick,Feeling hope
+My wanting to stay inside to prevent getting sick,People recovering
+People dying or getting sick,My wanting to stay inside to prevent getting sick
+People dying or getting sick,My personal risk of becoming infected
+People dying or getting sick,Me feeling contempt
+People dying or getting sick,Me feeling sympathy
+Things returning to normal,Feeling hope
+People recovering,Society getting healthier as a whole
+My personal risk of becoming infected,Risk of getting my family/loved ones sick
+Risk of getting my family/loved ones sick,Me feeling contempt
+Risk of getting my family/loved ones sick,Me feeling sympathy
+Society getting healthier as a whole,Less people dying/getting sick
+Society getting healthier as a whole,Things returning to normal
+Me feeling sympathy,My wanting to stay inside to prevent getting sick

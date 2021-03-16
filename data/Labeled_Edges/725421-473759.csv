@@ -1,0 +1,35 @@
+Source,Target
+People gathering,People dying or getting sick
+People gathering,Me feeling worry
+People gathering,NOT My support of government recommendations and regulations
+People gathering,NOT People recovering
+People gathering,My personal risk of becoming infected
+People gathering,Herd Immunity (virus cannot spread because many people are immune)
+People dying or getting sick,NOT People gathering
+People dying or getting sick,Me feeling worry
+People dying or getting sick,NOT My support of government recommendations and regulations
+People dying or getting sick,NOT People recovering
+People dying or getting sick,Returning home or to work from infected areas
+People dying or getting sick,My personal risk of becoming infected
+Me feeling worry,My support of government recommendations and regulations
+People recovering,People gathering
+People recovering,NOT People dying or getting sick
+People recovering,NOT Me feeling worry
+People recovering,My support of government recommendations and regulations
+People recovering,NOT Returning home or to work from infected areas
+People recovering,NOT My personal risk of becoming infected
+People recovering,Herd Immunity (virus cannot spread because many people are immune)
+Developing a vaccine,People gathering
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,My support of government recommendations and regulations
+Developing a vaccine,People recovering
+Developing a vaccine,NOT Returning home or to work from infected areas
+Developing a vaccine,NOT My personal risk of becoming infected
+Developing a vaccine,Herd Immunity (virus cannot spread because many people are immune)
+Returning home or to work from infected areas,NOT People gathering
+Returning home or to work from infected areas,People dying or getting sick
+Returning home or to work from infected areas,Me feeling worry
+Returning home or to work from infected areas,NOT People recovering
+Returning home or to work from infected areas,My personal risk of becoming infected
+My personal risk of becoming infected,Me feeling worry

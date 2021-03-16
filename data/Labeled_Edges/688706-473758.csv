@@ -1,0 +1,30 @@
+Source,Target
+Timely and reliable information,NOT Me feeling worry
+Timely and reliable information,NOT Young people not feeling at risk
+Timely and reliable information,NOT People don't understand situation
+People gathering,People dying or getting sick
+People gathering,Me feeling worry
+Infected people don't know they are spreading virus,People dying or getting sick
+My support of government recommendations and regulations,NOT People gathering
+My support of government recommendations and regulations,NOT Returning home or to work from infected areas
+My support of government recommendations and regulations,NOT My personal risk of becoming infected
+Developing a vaccine,NOT Infected people don't know they are spreading virus
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,People recovering
+Developing a vaccine,NOT My personal risk of becoming infected
+COVID-19 testing,NOT Infected people don't know they are spreading virus
+COVID-19 testing,People recovering
+COVID-19 testing,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Returning home or to work from infected areas,People dying or getting sick
+Young people not feeling at risk,People gathering
+Young people not feeling at risk,Infected people don't know they are spreading virus
+Young people not feeling at risk,My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Infected people don't know they are spreading virus
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Returning home or to work from infected areas
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+People don't understand situation,People gathering
+People don't understand situation,Infected people don't know they are spreading virus
+People don't understand situation,NOT People recovering
+People don't understand situation,Returning home or to work from infected areas
+People don't understand situation,My personal risk of becoming infected

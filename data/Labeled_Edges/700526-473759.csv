@@ -1,0 +1,26 @@
+Source,Target
+People gathering,People dying or getting sick
+People gathering,COVID-19 cases
+People dying or getting sick,COVID-19 cases
+Me feeling worry,My personal risk of becoming infected
+My support of government recommendations and regulations,NOT People dying or getting sick
+My support of government recommendations and regulations,People recovering
+My support of government recommendations and regulations,NOT COVID-19 cases
+People recovering,NOT COVID-19 cases
+People recovering,NOT Economic Downturn / Recession
+Access to free healthcare for COVID-19 patients,NOT People dying or getting sick
+Access to free healthcare for COVID-19 patients,NOT COVID-19 cases
+Access to free healthcare for COVID-19 patients,NOT My personal risk of becoming infected
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT My personal risk of becoming infected
+COVID-19 testing,COVID-19 cases
+COVID-19 testing,NOT My personal risk of becoming infected
+Returning home or to work from infected areas,People dying or getting sick
+Returning home or to work from infected areas,COVID-19 cases
+Economic Downturn / Recession,Me feeling worry
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,Me feeling worry
+Wearing Masks,NOT COVID-19 cases
+People touching things,People dying or getting sick
+People touching things,COVID-19 cases
+People touching things,My personal risk of becoming infected

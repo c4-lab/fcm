@@ -1,0 +1,41 @@
+Source,Target
+Poverty,Government financial support for families
+Poverty,Me feeling worry
+Government financial support for businesses,Government financial support for families
+Government financial support for businesses,NOT Me feeling worry
+People breathing,People dying or getting sick
+People breathing,Me feeling worry
+People breathing,NOT People recovering
+People breathing,My personal risk of becoming infected
+Media coverage,Me feeling worry
+Infected people don't know they are spreading virus,Practicing hygiene/handwashing
+Infected people don't know they are spreading virus,My personal risk of becoming infected
+Put infected people in quarantine,NOT Me feeling worry
+Put infected people in quarantine,NOT People recovering
+Put infected people in quarantine,NOT My personal risk of becoming infected
+People dying or getting sick,Me feeling worry
+Government financial support for families,Me feeling worry
+My support of government recommendations and regulations,NOT Me feeling worry
+People recovering,NOT Me feeling worry
+Access to free healthcare for COVID-19 patients,NOT People dying or getting sick
+Developing a vaccine,NOT Practicing hygiene/handwashing
+Developing a vaccine,NOT My personal risk of becoming infected
+COVID-19 testing,Me feeling worry
+COVID-19 testing,People recovering
+People losing jobs,Me feeling worry
+Returning home or to work from infected areas,People dying or getting sick
+Returning home or to work from infected areas,Me feeling worry
+Returning home or to work from infected areas,My personal risk of becoming infected
+Economic Downturn / Recession,Me feeling worry
+My personal risk of becoming infected,Me feeling worry
+Curbside carryout (restaurants,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Wearing Masks,NOT Practicing hygiene/handwashing
+Wearing Masks,Infected people don't know they are spreading virus
+People don't understand situation,Me feeling worry
+Homelessness,Poverty
+Homelessness,Government financial support for families
+Homelessness,Me feeling worry
+People touching things,Me feeling worry
+People touching things,My personal risk of becoming infected

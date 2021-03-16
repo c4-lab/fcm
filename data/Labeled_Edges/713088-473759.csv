@@ -1,0 +1,24 @@
+Source,Target
+Practicing hygiene/handwashing,NOT People dying or getting sick
+Practicing hygiene/handwashing,People recovering
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected
+People dying or getting sick,Practicing hygiene/handwashing
+People dying or getting sick,Me feeling worry
+People dying or getting sick,NOT My support of government recommendations and regulations
+People dying or getting sick,People recovering
+People dying or getting sick,COVID-19 testing
+People dying or getting sick,My personal risk of becoming infected
+People dying or getting sick,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People recovering,NOT Practicing hygiene/handwashing
+People recovering,NOT People dying or getting sick
+People recovering,NOT Me feeling worry
+People recovering,My support of government recommendations and regulations
+People recovering,NOT COVID-19 testing
+People recovering,NOT My personal risk of becoming infected
+People recovering,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+COVID-19 testing,People recovering
+COVID-19 testing,NOT My personal risk of becoming infected
+My personal risk of becoming infected,NOT My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected

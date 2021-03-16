@@ -1,0 +1,726 @@
+D:\Users\Dipto\PycharmProjects\fcm\venv\Scripts\python.exe D:/Users/Dipto/PycharmProjects/fcm/code/design_of_experiment.py
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\utils\deprecation.py:143: FutureWarning: The sklearn.metrics.classification module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.metrics. Anything that cannot be imported from sklearn.metrics is now part of the private API.
+  warnings.warn(message, FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 5000000/5000000 [02:01<00:00, 41019.77it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 10000000/10000000 [03:50<00:00, 43337.79it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 15000000/15000000 [05:41<00:00, 43971.02it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 20000000/20000000 [07:39<00:00, 43494.66it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 25000000/25000000 [09:29<00:00, 43894.09it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 30000000/30000000 [10:55<00:00, 45786.20it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 35000000/35000000 [13:43<00:00, 42499.90it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 40000000/40000000 [16:33<00:00, 40252.69it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 45000000/45000000 [17:36<00:00, 42594.74it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 50000000/50000000 [18:24<00:00, 45257.26it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 55000000/55000000 [19:02<00:00, 48153.88it/s]
+1033
+757 757
+cluster count:  3
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  4
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  5
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  6
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  7
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  8
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  9
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  10
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+757 757
+cluster count:  11
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\cluster\_affinity_propagation.py:152: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.
+  FutureWarning)
+cluster number:  3
+VI:  0.7563013441295993
+Adj Rand Idx:  0.3701185001040959
+cluster number:  4
+VI:  0.7243532406283751
+Adj Rand Idx:  0.3701185001040959
+cluster number:  5
+VI:  0.7924025025217962
+Adj Rand Idx:  0.3701185001040959
+cluster number:  6
+VI:  0.8344337648802159
+Adj Rand Idx:  0.3701185001040959
+cluster number:  7
+VI:  0.8666068833079008
+Adj Rand Idx:  0.3701185001040959
+cluster number:  8
+VI:  0.8585827454994943
+Adj Rand Idx:  0.3701185001040959
+cluster number:  9
+VI:  0.8373485334675738
+Adj Rand Idx:  0.3701185001040959
+cluster number:  10
+VI:  0.8639167758538998
+Adj Rand Idx:  0.3701185001040959
+cluster number:  11
+VI:  1.0310885819693512
+Adj Rand Idx:  0.3701185001040959
+cluster number:  3
+VI:  0.5814641508472483
+Adj Rand Idx:  0.39392066891638233
+cluster number:  4
+VI:  1.219083022207155
+Adj Rand Idx:  0.39392066891638233
+cluster number:  5
+VI:  1.2596090124018877
+Adj Rand Idx:  0.39392066891638233
+cluster number:  6
+VI:  0.9289616466463921
+Adj Rand Idx:  0.39392066891638233
+cluster number:  7
+VI:  0.9174929843421157
+Adj Rand Idx:  0.39392066891638233
+cluster number:  8
+VI:  0.9880167249982009
+Adj Rand Idx:  0.39392066891638233
+cluster number:  9
+VI:  0.9909699605699421
+Adj Rand Idx:  0.39392066891638233
+cluster number:  10
+VI:  0.9100744535846406
+Adj Rand Idx:  0.39392066891638233
+cluster number:  11
+VI:  1.0028796797171793
+Adj Rand Idx:  0.39392066891638233
+cluster number:  3
+VI:  0.7975892461418652
+Adj Rand Idx:  0.39758639846036226
+cluster number:  4
+VI:  0.8572088224231789
+Adj Rand Idx:  0.39758639846036226
+cluster number:  5
+VI:  0.9672465410390819
+Adj Rand Idx:  0.39758639846036226
+cluster number:  6
+VI:  0.9962247058184234
+Adj Rand Idx:  0.39758639846036226
+cluster number:  7
+VI:  0.9600662974664236
+Adj Rand Idx:  0.39758639846036226
+cluster number:  8
+VI:  1.0986798905966177
+Adj Rand Idx:  0.39758639846036226
+cluster number:  9
+VI:  1.1682007362101652
+Adj Rand Idx:  0.39758639846036226
+cluster number:  10
+VI:  1.1565187288480636
+Adj Rand Idx:  0.39758639846036226
+cluster number:  11
+VI:  1.0843106737660486
+Adj Rand Idx:  0.39758639846036226
+cluster number:  3
+VI:  1.1492231551347034
+Adj Rand Idx:  0.4178157407518688
+cluster number:  4
+VI:  1.096985738992217
+Adj Rand Idx:  0.4178157407518688
+cluster number:  5
+VI:  1.1362474264821527
+Adj Rand Idx:  0.4178157407518688
+cluster number:  6
+VI:  1.1518372243053139
+Adj Rand Idx:  0.4178157407518688
+cluster number:  7
+VI:  1.1961997378101115
+Adj Rand Idx:  0.4178157407518688
+cluster number:  8
+VI:  1.079180198241731
+Adj Rand Idx:  0.4178157407518688
+cluster number:  9
+VI:  1.06971453415904
+Adj Rand Idx:  0.4178157407518688
+cluster number:  10
+VI:  1.059227136765324
+Adj Rand Idx:  0.4178157407518688
+cluster number:  11
+VI:  1.537340188251508
+Adj Rand Idx:  0.4178157407518688
+cluster number:  3
+VI:  0.8938739742971831
+Adj Rand Idx:  0.3912626661454816
+cluster number:  4
+VI:  0.8645666308776032
+Adj Rand Idx:  0.3912626661454816
+cluster number:  5
+VI:  0.8502755255395282
+Adj Rand Idx:  0.3912626661454816
+cluster number:  6
+VI:  1.2073888385582219
+Adj Rand Idx:  0.3912626661454816
+cluster number:  7
+VI:  1.1946794823628721
+Adj Rand Idx:  0.3912626661454816
+cluster number:  8
+VI:  1.1349455082447286
+Adj Rand Idx:  0.3912626661454816
+cluster number:  9
+VI:  1.1520963465389533
+Adj Rand Idx:  0.3912626661454816
+cluster number:  10
+VI:  1.2762150999285455
+Adj Rand Idx:  0.3912626661454816
+cluster number:  11
+VI:  1.3996970733391605
+Adj Rand Idx:  0.3912626661454816
+cluster number:  3
+VI:  0.19456780301219312
+Adj Rand Idx:  0.38225410104039503
+cluster number:  4
+VI:  0.31366525196487094
+Adj Rand Idx:  0.38225410104039503
+cluster number:  5
+VI:  1.0990937107944556
+Adj Rand Idx:  0.38225410104039503
+cluster number:  6
+VI:  1.4834876299759536
+Adj Rand Idx:  0.38225410104039503
+cluster number:  7
+VI:  1.642139578887344
+Adj Rand Idx:  0.38225410104039503
+cluster number:  8
+VI:  1.4457968031508137
+Adj Rand Idx:  0.38225410104039503
+cluster number:  9
+VI:  1.4181870022389746
+Adj Rand Idx:  0.38225410104039503
+cluster number:  10
+VI:  1.3349357161639301
+Adj Rand Idx:  0.38225410104039503
+cluster number:  11
+VI:  1.6040448334942203
+Adj Rand Idx:  0.38225410104039503
+cluster number:  3
+VI:  1.416588883963916
+Adj Rand Idx:  0.38303683651720855
+cluster number:  4
+VI:  0.8962092939363551
+Adj Rand Idx:  0.38303683651720855
+cluster number:  5
+VI:  1.0347518271830023
+Adj Rand Idx:  0.38303683651720855
+cluster number:  6
+VI:  1.5856606751248674
+Adj Rand Idx:  0.38303683651720855
+cluster number:  7
+VI:  1.4744707666297459
+Adj Rand Idx:  0.38303683651720855
+cluster number:  8
+VI:  1.5280353932990045
+Adj Rand Idx:  0.38303683651720855
+cluster number:  9
+VI:  1.7898765473983027
+Adj Rand Idx:  0.38303683651720855
+cluster number:  10
+VI:  1.8921465430991729
+Adj Rand Idx:  0.38303683651720855
+cluster number:  11
+VI:  1.9492265672344253
+Adj Rand Idx:  0.38303683651720855
+cluster number:  3
+VI:  0.924957225745314
+Adj Rand Idx:  0.3928875176150196
+cluster number:  4
+VI:  0.9476351391727278
+Adj Rand Idx:  0.3928875176150196
+cluster number:  5
+VI:  0.8123872179224773
+Adj Rand Idx:  0.3928875176150196
+cluster number:  6
+VI:  0.7734668792166882
+Adj Rand Idx:  0.3928875176150196
+cluster number:  7
+VI:  0.8326700861310421
+Adj Rand Idx:  0.3928875176150196
+cluster number:  8
+VI:  0.7494012533987658
+Adj Rand Idx:  0.3928875176150196
+cluster number:  9
+VI:  0.9277962052649431
+Adj Rand Idx:  0.3928875176150196
+cluster number:  10
+VI:  0.9536289036787767
+Adj Rand Idx:  0.3928875176150196
+cluster number:  11
+VI:  0.9781407286411486
+Adj Rand Idx:  0.3928875176150196
+cluster number:  3
+VI:  0.3197159723424149
+Adj Rand Idx:  0.39778823747205594
+cluster number:  4
+VI:  0.44740997631582136
+Adj Rand Idx:  0.39778823747205594
+cluster number:  5
+VI:  0.4879288229936268
+Adj Rand Idx:  0.39778823747205594
+cluster number:  6
+VI:  0.5626459991749749
+Adj Rand Idx:  0.39778823747205594
+cluster number:  7
+VI:  0.5976147724167653
+Adj Rand Idx:  0.39778823747205594
+cluster number:  8
+VI:  1.047086966599504
+Adj Rand Idx:  0.39778823747205594
+cluster number:  9
+VI:  0.9976584790255492
+Adj Rand Idx:  0.39778823747205594
+cluster number:  10
+VI:  1.0058428542466529
+Adj Rand Idx:  0.39778823747205594
+cluster number:  11
+VI:  0.9720330104064292
+Adj Rand Idx:  0.39778823747205594
+cluster number:  3
+VI:  0.9265098668606123
+Adj Rand Idx:  0.38991432378272156
+cluster number:  4
+VI:  0.8740659121326533
+Adj Rand Idx:  0.38991432378272156
+cluster number:  5
+VI:  0.7612791448151048
+Adj Rand Idx:  0.38991432378272156
+cluster number:  6
+VI:  0.819884413109905
+Adj Rand Idx:  0.38991432378272156
+cluster number:  7
+VI:  0.8941787319825928
+Adj Rand Idx:  0.38991432378272156
+cluster number:  8
+VI:  1.0517955981581906
+Adj Rand Idx:  0.38991432378272156
+cluster number:  9
+VI:  1.1024572316771697
+Adj Rand Idx:  0.38991432378272156
+cluster number:  10
+VI:  1.1859673990709032
+Adj Rand Idx:  0.38991432378272156
+cluster number:  11
+VI:  1.598954731956785
+Adj Rand Idx:  0.38991432378272156
+
+Process finished with exit code 0

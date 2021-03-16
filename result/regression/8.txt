@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      8   R-squared:                       0.009
+Model:                            OLS   Adj. R-squared:                 -0.021
+Method:                 Least Squares   F-statistic:                    0.2891
+Date:                Mon, 15 Feb 2021   Prob (F-statistic):              0.833
+Time:                        22:45:06   Log-Likelihood:                 60.645
+No. Observations:                 104   AIC:                            -113.3
+Df Residuals:                     100   BIC:                            -102.7
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+const               0.0708      0.018      3.981      0.000       0.036       0.106
+bias_score        5.15e-05      0.002      0.022      0.982      -0.005       0.005
+frequency_score     0.0012      0.002      0.691      0.491      -0.002       0.005
+iqr_score          -0.0073      0.017     -0.432      0.667      -0.041       0.026
+==============================================================================
+Omnibus:                       51.828   Durbin-Watson:                   2.121
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              122.831
+Skew:                           1.991   Prob(JB):                     2.13e-27
+Kurtosis:                       6.533   Cond. No.                         20.5
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

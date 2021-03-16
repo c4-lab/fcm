@@ -1,0 +1,32 @@
+Source,Target
+People gathering,My personal risk of becoming infected
+People breathing,Me feeling worry
+People dying or getting sick,NOT People gathering
+People dying or getting sick,People don't understand situation
+People dying or getting sick,Homelessness
+Me feeling worry,People gathering
+Me feeling worry,People dying or getting sick
+Me feeling worry,People losing jobs
+Me feeling worry,Economic Downturn / Recession
+My support of government recommendations and regulations,Developing a vaccine
+My support of government recommendations and regulations,COVID-19 testing
+My support of government recommendations and regulations,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People recovering,People gathering
+People recovering,NOT Me feeling worry
+People recovering,NOT COVID-19 testing
+People recovering,People don't understand situation
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,People recovering
+Developing a vaccine,NOT COVID-19 testing
+COVID-19 testing,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People losing jobs,NOT My support of government recommendations and regulations
+People losing jobs,Economic Downturn / Recession
+Economic Downturn / Recession,People losing jobs
+My personal risk of becoming infected,People breathing
+My personal risk of becoming infected,Young people not feeling at risk
+My personal risk of becoming infected,People don't understand situation
+Young people not feeling at risk,People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+People don't understand situation,My personal risk of becoming infected
+Homelessness,Me feeling worry
+Homelessness,Economic Downturn / Recession

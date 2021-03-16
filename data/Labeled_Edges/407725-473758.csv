@@ -1,0 +1,18 @@
+Source,Target
+People gathering,NOT Infected people don't know they are spreading virus
+People breathing,My personal risk of becoming infected
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,My support of government recommendations and regulations
+People recovering,NOT People gathering
+People recovering,NOT Me feeling contempt
+COVID-19 testing,Infected people don't know they are spreading virus
+COVID-19 testing,My support of government recommendations and regulations
+Me feeling contempt,Infected people don't know they are spreading virus
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Infected people don't know they are spreading virus
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Wearing Masks,Infected people don't know they are spreading virus
+Wearing Masks,People recovering
+Wearing Masks,NOT My personal risk of becoming infected

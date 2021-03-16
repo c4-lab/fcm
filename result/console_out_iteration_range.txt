@@ -1,0 +1,568 @@
+D:\Users\Dipto\PycharmProjects\fcm\venv\Scripts\python.exe D:/Users/Dipto/PycharmProjects/fcm/code/design_of_experiment.py
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\utils\deprecation.py:143: FutureWarning: The sklearn.metrics.classification module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.metrics. Anything that cannot be imported from sklearn.metrics is now part of the private API.
+  warnings.warn(message, FutureWarning)
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 5000000/5000000 [01:49<00:00, 45803.38it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.042898529892830356 inertia:  16459.673969332172
+757 757
+cluster count:  4
+silhouette:  0.02936455700040824 inertia:  16097.153141932034
+757 757
+cluster count:  5
+silhouette:  0.03281242595370459 inertia:  15858.048823665042
+757 757
+cluster count:  6
+silhouette:  0.04657567686474002 inertia:  15605.955936993198
+757 757
+cluster count:  7
+silhouette:  0.042273732738978075 inertia:  15360.919156558939
+757 757
+cluster count:  8
+silhouette:  0.04326827556941893 inertia:  15074.045867569226
+757 757
+cluster count:  9
+silhouette:  0.04068146953213459 inertia:  14890.449280455136
+757 757
+cluster count:  10
+silhouette:  0.04971176359002676 inertia:  14729.321747774024
+757 757
+cluster count:  11
+silhouette:  0.054789764967336965 inertia:  14447.533430902608
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 10000000/10000000 [03:39<00:00, 45649.64it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.028849713607206756 inertia:  18518.89531306788
+757 757
+cluster count:  4
+silhouette:  0.04098424209998001 inertia:  18179.238666619938
+757 757
+cluster count:  5
+silhouette:  0.036300213087428236 inertia:  17835.47468204548
+757 757
+cluster count:  6
+silhouette:  0.02754339888118076 inertia:  17570.009105672703
+757 757
+cluster count:  7
+silhouette:  0.025752677971471863 inertia:  17332.93453989572
+757 757
+cluster count:  8
+silhouette:  0.04537578195828468 inertia:  17123.509287169647
+757 757
+cluster count:  9
+silhouette:  0.033283343536588114 inertia:  16850.37071916814
+757 757
+cluster count:  10
+silhouette:  0.04138370338102339 inertia:  16557.431140735865
+757 757
+cluster count:  11
+silhouette:  0.05426281152534032 inertia:  16413.268814189796
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 15000000/15000000 [05:27<00:00, 45770.61it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.03729913211838754 inertia:  19832.607416429884
+757 757
+cluster count:  4
+silhouette:  0.031472339355441 inertia:  19500.347691545143
+757 757
+cluster count:  5
+silhouette:  0.02095482668761041 inertia:  19121.094898002197
+757 757
+cluster count:  6
+silhouette:  0.03818237559961348 inertia:  18771.531837355593
+757 757
+cluster count:  7
+silhouette:  0.027396710845424034 inertia:  18623.973973243978
+757 757
+cluster count:  8
+silhouette:  0.02661299442956363 inertia:  18180.159781521183
+757 757
+cluster count:  9
+silhouette:  0.046677312442811966 inertia:  18145.385362845976
+757 757
+cluster count:  10
+silhouette:  0.04274242309124362 inertia:  17744.04879964705
+757 757
+cluster count:  11
+silhouette:  0.03728115958886624 inertia:  17660.758691780895
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 20000000/20000000 [07:20<00:00, 45440.03it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.043840603498685835 inertia:  20866.878234426054
+757 757
+cluster count:  4
+silhouette:  0.03491687878960158 inertia:  20502.008495803202
+757 757
+cluster count:  5
+silhouette:  0.02754755517758267 inertia:  20157.32609023076
+757 757
+cluster count:  6
+silhouette:  0.005903793006883961 inertia:  19896.91320349278
+757 757
+cluster count:  7
+silhouette:  0.030761820408138123 inertia:  19755.056401851765
+757 757
+cluster count:  8
+silhouette:  0.023275704762908512 inertia:  19394.68750671073
+757 757
+cluster count:  9
+silhouette:  0.03645263804903614 inertia:  19043.700555804444
+757 757
+cluster count:  10
+silhouette:  0.04275929750851501 inertia:  18901.466466453556
+757 757
+cluster count:  11
+silhouette:  0.029622454713283074 inertia:  18573.401603683826
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 25000000/25000000 [09:38<00:00, 43210.31it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.024719186521435555 inertia:  21768.21356234993
+757 757
+cluster count:  4
+silhouette:  0.03357411465620951 inertia:  21333.845865507603
+757 757
+cluster count:  5
+silhouette:  0.04198682776757441 inertia:  20984.33586981052
+757 757
+cluster count:  6
+silhouette:  0.02738277852974092 inertia:  20688.87079069702
+757 757
+cluster count:  7
+silhouette:  0.033954949350154924 inertia:  20396.888617667857
+757 757
+cluster count:  8
+silhouette:  0.030260939482275505 inertia:  20067.697148258834
+757 757
+cluster count:  9
+silhouette:  0.023294663587803507 inertia:  19850.566036398614
+757 757
+cluster count:  10
+silhouette:  0.02364177395798091 inertia:  19612.33975713299
+757 757
+cluster count:  11
+silhouette:  0.03521550012668111 inertia:  19471.633461112506
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 30000000/30000000 [11:48<00:00, 42313.92it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.04009330975300269 inertia:  22605.07617519144
+757 757
+cluster count:  4
+silhouette:  0.028743974505916415 inertia:  22151.420611126763
+757 757
+cluster count:  5
+silhouette:  0.014379482490266892 inertia:  21802.36111436194
+757 757
+cluster count:  6
+silhouette:  0.019184741356666306 inertia:  21475.72924246216
+757 757
+cluster count:  7
+silhouette:  0.019860169849346042 inertia:  21134.312011898954
+757 757
+cluster count:  8
+silhouette:  0.03245099078600991 inertia:  20819.485431829806
+757 757
+cluster count:  9
+silhouette:  0.021724710386098998 inertia:  20623.689181118563
+757 757
+cluster count:  10
+silhouette:  0.023298954469383275 inertia:  20409.62007660462
+757 757
+cluster count:  11
+silhouette:  0.04348005072703708 inertia:  20068.33773712784
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 35000000/35000000 [13:12<00:00, 44171.12it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.09831148800866923 inertia:  23222.736758253617
+757 757
+cluster count:  4
+silhouette:  0.06835953817777103 inertia:  22779.868584632233
+757 757
+cluster count:  5
+silhouette:  0.024950962231380477 inertia:  22402.603056924723
+757 757
+cluster count:  6
+silhouette:  -0.0039048992448818794 inertia:  22102.36880142871
+757 757
+cluster count:  7
+silhouette:  0.05328907294180787 inertia:  21876.768937624583
+757 757
+cluster count:  8
+silhouette:  0.02015101802025596 inertia:  21562.36603250129
+757 757
+cluster count:  9
+silhouette:  0.01205327689777622 inertia:  21190.842303405476
+757 757
+cluster count:  10
+silhouette:  0.01558333585353514 inertia:  21005.65971745502
+757 757
+cluster count:  11
+silhouette:  0.02748812235223702 inertia:  20748.717702352416
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 40000000/40000000 [14:56<00:00, 44620.02it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.11414780056946586 inertia:  23861.83593183211
+757 757
+cluster count:  4
+silhouette:  0.018027854418848712 inertia:  23489.229845475173
+757 757
+cluster count:  5
+silhouette:  0.020129347406678356 inertia:  23063.133117734822
+757 757
+cluster count:  6
+silhouette:  0.027169593179341006 inertia:  22637.483611006708
+757 757
+cluster count:  7
+silhouette:  -0.000932874719985152 inertia:  22379.120865544555
+757 757
+cluster count:  8
+silhouette:  0.01065048587910445 inertia:  22114.85933302894
+757 757
+cluster count:  9
+silhouette:  0.018819966913709203 inertia:  21775.890007303966
+757 757
+cluster count:  10
+silhouette:  0.03580173655231482 inertia:  21603.91921416019
+757 757
+cluster count:  11
+silhouette:  0.030766169004132534 inertia:  21375.69461043915
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 45000000/45000000 [16:30<00:00, 45413.92it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.04821363846835545 inertia:  24515.827000856734
+757 757
+cluster count:  4
+silhouette:  0.10504516847077046 inertia:  24091.6289628167
+757 757
+cluster count:  5
+silhouette:  0.026291683841099846 inertia:  23723.456720792776
+757 757
+cluster count:  6
+silhouette:  0.0675556126574371 inertia:  23377.91492759535
+757 757
+cluster count:  7
+silhouette:  0.022461263270780633 inertia:  23042.413328624578
+757 757
+cluster count:  8
+silhouette:  0.04194126080376837 inertia:  22732.51331644545
+757 757
+cluster count:  9
+silhouette:  0.015806288023682852 inertia:  22516.76427958338
+757 757
+cluster count:  10
+silhouette:  0.010820635814193978 inertia:  22091.620976768878
+757 757
+cluster count:  11
+silhouette:  0.015289043058931282 inertia:  21865.304102256887
+
+******************
+number of dimensions:  64
+Walk iteration: 100%|##########| 50000000/50000000 [18:10<00:00, 45843.00it/s]
+1033
+757 757
+cluster count:  3
+silhouette:  0.015779661674527042 inertia:  25024.347782238918
+757 757
+cluster count:  4
+silhouette:  0.04010627958363393 inertia:  24590.65609606459
+757 757
+cluster count:  5
+silhouette:  0.08319860484753755 inertia:  24184.693063851486
+757 757
+cluster count:  6
+silhouette:  -0.009382796990655914 inertia:  23717.54983401258
+757 757
+cluster count:  7
+silhouette:  -0.00365617362604116 inertia:  23514.288986333962
+757 757
+cluster count:  8
+silhouette:  0.023619869755035938 inertia:  23059.642041002713
+757 757
+cluster count:  9
+silhouette:  0.0032864361637948702 inertia:  23014.35757373202
+757 757
+cluster count:  10
+silhouette:  0.024575553279895256 inertia:  22492.97213886541
+757 757
+cluster count:  11
+silhouette:  0.026243193643999414 inertia:  22438.864750123263
+cluster number:  3
+VI:  1.6526187700406572
+Adj Rand Idx:  0.4863052762824931
+cluster number:  4
+VI:  1.9005288541550933
+Adj Rand Idx:  0.47040646534016106
+cluster number:  5
+VI:  2.5623331199405044
+Adj Rand Idx:  0.39485806971301635
+cluster number:  6
+VI:  2.50528745882086
+Adj Rand Idx:  0.40349736101094974
+cluster number:  7
+VI:  2.584443823210748
+Adj Rand Idx:  0.3741681308220154
+cluster number:  8
+VI:  2.52966898517522
+Adj Rand Idx:  0.4486678845474222
+cluster number:  9
+VI:  2.506417059533266
+Adj Rand Idx:  0.3825473748685758
+cluster number:  10
+VI:  2.8005916363675603
+Adj Rand Idx:  0.32838393073314504
+cluster number:  11
+VI:  2.733131295365132
+Adj Rand Idx:  0.45654409532506707
+cluster number:  3
+VI:  1.6276998698434595
+Adj Rand Idx:  0.48087901773011427
+cluster number:  4
+VI:  1.6511690711439468
+Adj Rand Idx:  0.6206007116932081
+cluster number:  5
+VI:  2.235879542215858
+Adj Rand Idx:  0.4649094407166511
+cluster number:  6
+VI:  2.5907812187922987
+Adj Rand Idx:  0.32629928442581724
+cluster number:  7
+VI:  2.8171695002550874
+Adj Rand Idx:  0.3627660536912266
+cluster number:  8
+VI:  2.324348460145911
+Adj Rand Idx:  0.4215270659007406
+cluster number:  9
+VI:  2.6786251337587728
+Adj Rand Idx:  0.38037087266689573
+cluster number:  10
+VI:  2.4631353449207296
+Adj Rand Idx:  0.46557836176854994
+cluster number:  11
+VI:  2.9702486113425874
+Adj Rand Idx:  0.3874519477412071
+cluster number:  3
+VI:  1.3622749692152927
+Adj Rand Idx:  0.6195979965096114
+cluster number:  4
+VI:  1.6179361074785688
+Adj Rand Idx:  0.5879343310161449
+cluster number:  5
+VI:  2.1260680317477747
+Adj Rand Idx:  0.38861200312102157
+cluster number:  6
+VI:  2.7710009931271586
+Adj Rand Idx:  0.3121878833022565
+cluster number:  7
+VI:  3.1055305070729937
+Adj Rand Idx:  0.25108228954626916
+cluster number:  8
+VI:  2.519903970790718
+Adj Rand Idx:  0.4368982588070707
+cluster number:  9
+VI:  2.2266268992704528
+Adj Rand Idx:  0.6091664632577977
+cluster number:  10
+VI:  2.8952428491099393
+Adj Rand Idx:  0.4068236482507962
+cluster number:  11
+VI:  3.0244045460520845
+Adj Rand Idx:  0.2979310477964574
+cluster number:  3
+VI:  1.368859679811064
+Adj Rand Idx:  0.5832110008068613
+cluster number:  4
+VI:  2.2246772198928544
+Adj Rand Idx:  0.3419756633099513
+cluster number:  5
+VI:  2.1159261361887487
+Adj Rand Idx:  0.42921424282907716
+cluster number:  6
+VI:  2.488380717804801
+Adj Rand Idx:  0.35215041229557675
+cluster number:  7
+VI:  3.1508612346824387
+Adj Rand Idx:  0.2281482187841455
+cluster number:  8
+VI:  2.5364602653978072
+Adj Rand Idx:  0.38009910492198445
+cluster number:  9
+VI:  2.816641186565094
+Adj Rand Idx:  0.35172302537966726
+cluster number:  10
+VI:  3.354267727325789
+Adj Rand Idx:  0.30923818696105315
+cluster number:  11
+VI:  2.5499007103196307
+Adj Rand Idx:  0.42722646919777213
+cluster number:  3
+VI:  1.310323964374247
+Adj Rand Idx:  0.603343376436501
+cluster number:  4
+VI:  1.8718363095894759
+Adj Rand Idx:  0.39640423518891676
+cluster number:  5
+VI:  2.5506673451951403
+Adj Rand Idx:  0.2782238451717311
+cluster number:  6
+VI:  2.324014696394183
+Adj Rand Idx:  0.37761230281842967
+cluster number:  7
+VI:  2.517002394406486
+Adj Rand Idx:  0.35874765006570186
+cluster number:  8
+VI:  1.669561994614232
+Adj Rand Idx:  0.6667756993242229
+cluster number:  9
+VI:  2.8040379810290594
+Adj Rand Idx:  0.39320593933556464
+cluster number:  10
+VI:  2.8116144771458105
+Adj Rand Idx:  0.46131237244176004
+cluster number:  11
+VI:  2.8322451438470524
+Adj Rand Idx:  0.35747791604878393
+cluster number:  3
+VI:  1.3556982156882775
+Adj Rand Idx:  0.5402945048817264
+cluster number:  4
+VI:  1.4732926509177142
+Adj Rand Idx:  0.5838269529385841
+cluster number:  5
+VI:  2.5578642835798915
+Adj Rand Idx:  0.3021881648346219
+cluster number:  6
+VI:  2.4832075935338973
+Adj Rand Idx:  0.37753518444357204
+cluster number:  7
+VI:  2.6518818513783042
+Adj Rand Idx:  0.33987438841895723
+cluster number:  8
+VI:  2.7401363868037563
+Adj Rand Idx:  0.3752084641850263
+cluster number:  9
+VI:  2.6477032535022493
+Adj Rand Idx:  0.41746054384152437
+cluster number:  10
+VI:  3.053980410079873
+Adj Rand Idx:  0.388894964983566
+cluster number:  11
+VI:  2.61169020966964
+Adj Rand Idx:  0.5057038932249536
+cluster number:  3
+VI:  1.2469447984162578
+Adj Rand Idx:  0.6849403089674366
+cluster number:  4
+VI:  2.2352848782071404
+Adj Rand Idx:  0.3162976753561329
+cluster number:  5
+VI:  2.059525203051818
+Adj Rand Idx:  0.5551072364763417
+cluster number:  6
+VI:  2.257388983637644
+Adj Rand Idx:  0.5142296085902521
+cluster number:  7
+VI:  2.9562553872768254
+Adj Rand Idx:  0.23873288211007546
+cluster number:  8
+VI:  2.694751853674168
+Adj Rand Idx:  0.4051635050261766
+cluster number:  9
+VI:  2.2189267439799085
+Adj Rand Idx:  0.4611210515049044
+cluster number:  10
+VI:  2.9950491382854523
+Adj Rand Idx:  0.43328264270426925
+cluster number:  11
+VI:  3.126860747679465
+Adj Rand Idx:  0.39660448668175075
+cluster number:  3
+VI:  1.4611698336091576
+Adj Rand Idx:  0.46566887902501103
+cluster number:  4
+VI:  2.166075822102715
+Adj Rand Idx:  0.292932241224193
+cluster number:  5
+VI:  2.134381595762346
+Adj Rand Idx:  0.4424210587185898
+cluster number:  6
+VI:  2.294124840666275
+Adj Rand Idx:  0.434145783403825
+cluster number:  7
+VI:  2.5739199657520917
+Adj Rand Idx:  0.3677914296695506
+cluster number:  8
+VI:  2.655426248206029
+Adj Rand Idx:  0.31057962825686597
+cluster number:  9
+VI:  2.7583765293456795
+Adj Rand Idx:  0.33961757682494365
+cluster number:  10
+VI:  2.773811954577082
+Adj Rand Idx:  0.4334765235105814
+cluster number:  11
+VI:  3.135637352155079
+Adj Rand Idx:  0.3842724167862679
+cluster number:  3
+VI:  1.330275720777936
+Adj Rand Idx:  0.5691634732173494
+cluster number:  4
+VI:  1.866636045103719
+Adj Rand Idx:  0.39427172982996833
+cluster number:  5
+VI:  2.377622583324776
+Adj Rand Idx:  0.33074814298267113
+cluster number:  6
+VI:  2.7283429229891536
+Adj Rand Idx:  0.29720506754716913
+cluster number:  7
+VI:  2.9387435044987416
+Adj Rand Idx:  0.28009858435461693
+cluster number:  8
+VI:  2.8569008511985827
+Adj Rand Idx:  0.30953161843446714
+cluster number:  9
+VI:  2.8210498322373856
+Adj Rand Idx:  0.34848793424626484
+cluster number:  10
+VI:  3.082935667538942
+Adj Rand Idx:  0.38743785031633377
+cluster number:  11
+VI:  2.9511978013653994
+Adj Rand Idx:  0.3604703242486776
+
+Process finished with exit code 0

@@ -1,0 +1,18 @@
+Source,Target
+People breathing,NOT People dying or getting sick
+People breathing,NOT Me feeling worry
+Infected people don't know they are spreading virus,NOT People breathing
+Infected people don't know they are spreading virus,NOT COVID-19 testing
+People dying or getting sick,NOT People breathing
+People dying or getting sick,People recovering
+People dying or getting sick,NOT My personal risk of becoming infected
+Me feeling worry,NOT My personal risk of becoming infected
+My support of government recommendations and regulations,Practicing hygiene/handwashing
+My support of government recommendations and regulations,People recovering
+My support of government recommendations and regulations,Developing a vaccine
+My support of government recommendations and regulations,NOT Economic Downturn / Recession
+Developing a vaccine,People recovering
+COVID-19 testing,NOT People dying or getting sick
+My personal risk of becoming infected,My support of government recommendations and regulations
+People don't understand situation,NOT My support of government recommendations and regulations
+People touching things,NOT My personal risk of becoming infected

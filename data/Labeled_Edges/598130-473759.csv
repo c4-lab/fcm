@@ -1,0 +1,22 @@
+Source,Target
+Practicing hygiene/handwashing,NOT Me feeling worry
+Practicing hygiene/handwashing,NOT People getting sick
+Practicing hygiene/handwashing,People recovering
+People breathing,People getting sick
+Essential jobs,Wearing Masks
+Government financial support for families,NOT Me feeling worry
+Government financial support for families,My support of government recommendations and regulations
+Me feeling worry,People gathering
+Me feeling worry,NOT Wearing Masks
+People getting sick,Me feeling worry
+People getting sick,NOT Wearing Masks
+My support of government recommendations and regulations,NOT Me feeling worry
+People recovering,Wearing Masks
+My personal risk of becoming infected,Me feeling worry
+My personal risk of becoming infected,NOT Wearing Masks
+People coming home from college,People gathering
+People coming home from college,Essential jobs
+People coming home from college,People getting sick
+People going non essential shopping,Me feeling worry
+People going non essential shopping,People getting sick
+People going non essential shopping,My personal risk of becoming infected

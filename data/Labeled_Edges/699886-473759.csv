@@ -1,0 +1,20 @@
+Source,Target
+Poverty,People dying or getting sick
+People gathering,People breathing
+People gathering,People dying or getting sick
+People breathing,People dying or getting sick
+People breathing,My personal risk of becoming infected
+My support of government recommendations and regulations,People recovering
+People recovering,My support of government recommendations and regulations
+COVID-19 testing,NOT My support of government recommendations and regulations
+People losing jobs,NOT My support of government recommendations and regulations
+Economic Downturn / Recession,People dying or getting sick
+Economic Downturn / Recession,My support of government recommendations and regulations
+Economic Downturn / Recession,People losing jobs
+Economic Downturn / Recession,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+My personal risk of becoming infected,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Me feeling sympathy,Poverty
+Me feeling sympathy,People dying or getting sick
+Me feeling sympathy,Economic Downturn / Recession

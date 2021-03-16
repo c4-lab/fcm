@@ -1,0 +1,28 @@
+Source,Target
+Timely and reliable information,People understanding the situation and following regulations
+Timely and reliable information,NOT Me feeling worry
+Timely and reliable information,My support of government recommendations and regulations
+Government financial support for businesses,My support of government recommendations and regulations
+Government financial support for businesses,NOT Economic Downturn / Recession
+Media coverage,Me feeling worry
+Media coverage,Me feeling sympathy
+People dying or getting sick,My personal risk of becoming infected
+People dying or getting sick,Me feeling sympathy
+People understanding the situation and following regulations,Less people dying/getting sick
+People understanding the situation and following regulations,NOT People dying or getting sick
+Government financial support for families,My support of government recommendations and regulations
+Government financial support for families,NOT Economic Downturn / Recession
+Me feeling worry,People dying or getting sick
+People recovering,Less people dying/getting sick
+People recovering,NOT Me feeling worry
+People recovering,NOT Me feeling sympathy
+Economic Downturn / Recession,Me feeling worry
+Economic Downturn / Recession,Me feeling sympathy
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Less people dying/getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Wearing Masks,Less people dying/getting sick
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,NOT My personal risk of becoming infected
+Coordinated,Less people dying/getting sick
+Coordinated,My support of government recommendations and regulations

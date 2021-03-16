@@ -1,0 +1,30 @@
+Source,Target
+People gathering,NOT People dying or getting sick
+People gathering,NOT My personal risk of becoming infected
+Government financial support for businesses,NOT My support of government recommendations and regulations
+People breathing,NOT People dying or getting sick
+People breathing,NOT My personal risk of becoming infected
+People dying or getting sick,Practicing hygiene/handwashing
+People dying or getting sick,Media coverage
+People dying or getting sick,Put infected people in quarantine
+People dying or getting sick,COVID-19 testing
+People dying or getting sick,NOT Economic Downturn / Recession
+People dying or getting sick,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People dying or getting sick,NOT Me feeling sympathy
+Government financial support for families,NOT My support of government recommendations and regulations
+People recovering,Herd Immunity (virus cannot spread because many people are immune)
+Access to free healthcare for COVID-19 patients,People recovering
+Access to free healthcare for COVID-19 patients,COVID-19 testing
+Developing a vaccine,Herd Immunity (virus cannot spread because many people are immune)
+COVID-19 testing,Access to free healthcare for COVID-19 patients
+Returning home or to work from infected areas,NOT People dying or getting sick
+Returning home or to work from infected areas,NOT My personal risk of becoming infected
+Economic Downturn / Recession,NOT Poverty
+Economic Downturn / Recession,Government financial support for businesses
+Economic Downturn / Recession,Government financial support for families
+Economic Downturn / Recession,NOT Me feeling sympathy
+Economic Downturn / Recession,NOT Homelessness
+Young people not feeling at risk,NOT People dying or getting sick
+Young people not feeling at risk,NOT My personal risk of becoming infected
+People touching things,NOT People dying or getting sick
+People touching things,NOT My personal risk of becoming infected

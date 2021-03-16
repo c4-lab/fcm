@@ -1,0 +1,22 @@
+Source,Target
+Poverty,NOT My support of government recommendations and regulations
+Poverty,Me feeling sympathy
+Government financial support for businesses,My support of government recommendations and regulations
+Government financial support for businesses,NOT Me feeling sympathy
+People dying or getting sick,My personal risk of becoming infected
+People dying or getting sick,Me feeling sympathy
+Government financial support for families,NOT Poverty
+Government financial support for families,My support of government recommendations and regulations
+Government financial support for families,NOT Me feeling sympathy
+People recovering,NOT Me feeling sympathy
+Developing a vaccine,People recovering
+Developing a vaccine,NOT My personal risk of becoming infected
+Developing a vaccine,NOT Me feeling sympathy
+People losing jobs,Poverty
+People losing jobs,NOT My support of government recommendations and regulations
+People losing jobs,Me feeling sympathy
+Economic Downturn / Recession,Poverty
+Economic Downturn / Recession,People losing jobs
+Economic Downturn / Recession,Me feeling sympathy
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,NOT My personal risk of becoming infected

@@ -1,0 +1,16 @@
+Source,Target
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,NOT People recovering
+Put infected people in quarantine,NOT People dying or getting sick
+Put infected people in quarantine,People recovering
+People dying or getting sick,My personal risk of becoming infected
+Government financial support for families,My support of government recommendations and regulations
+My support of government recommendations and regulations,People recovering
+My support of government recommendations and regulations,NOT My personal risk of becoming infected
+People recovering,NOT People dying or getting sick
+My personal risk of becoming infected,NOT People dying or getting sick
+My personal risk of becoming infected,My support of government recommendations and regulations
+Me feeling contempt,My personal risk of becoming infected
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,People don't understand situation
+People don't understand situation,People dying or getting sick

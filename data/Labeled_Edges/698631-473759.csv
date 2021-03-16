@@ -1,0 +1,26 @@
+Source,Target
+Poverty,NOT My support of government recommendations and regulations
+Timely and reliable information,NOT People gathering
+Timely and reliable information,NOT People dying or getting sick
+Timely and reliable information,My support of government recommendations and regulations
+People gathering,People dying or getting sick
+People gathering,My personal risk of becoming infected
+People breathing,People dying or getting sick
+People breathing,My personal risk of becoming infected
+Asymptomatic people,People dying or getting sick
+Asymptomatic people,My support of government recommendations and regulations
+People dying or getting sick,People recovering
+My support of government recommendations and regulations,Poverty
+My support of government recommendations and regulations,NOT People dying or getting sick
+My support of government recommendations and regulations,People losing jobs
+My support of government recommendations and regulations,NOT My personal risk of becoming infected
+People losing jobs,Poverty
+People losing jobs,NOT My support of government recommendations and regulations
+My personal risk of becoming infected,People dying or getting sick
+My personal risk of becoming infected,People recovering
+Quarantine,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People losing jobs
+Me feeling sympathy,People dying or getting sick
+Me feeling sympathy,People losing jobs

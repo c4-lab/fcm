@@ -1,0 +1,41 @@
+Source,Target
+Practicing hygiene/handwashing,Spreading the virus
+Practicing hygiene/handwashing,My personal risk of becoming infected
+People gathering,NOT People dying or getting sick
+People gathering,NOT My support of government recommendations and regulations
+People gathering,NOT People recovering
+People gathering,NOT My personal risk of becoming infected
+Government financial support for businesses,Economic Downturn / Recession
+People breathing,NOT Spreading the virus
+Spreading the virus,NOT People gathering
+Spreading the virus,NOT People dying or getting sick
+Spreading the virus,NOT My personal risk of becoming infected
+My support of government recommendations and regulations,Government financial support for businesses
+My support of government recommendations and regulations,Access to free healthcare for COVID-19 patients
+Access to free healthcare for COVID-19 patients,People dying or getting sick
+Access to free healthcare for COVID-19 patients,People recovering
+Developing a vaccine,People dying or getting sick
+Developing a vaccine,People recovering
+Developing a vaccine,My personal risk of becoming infected
+COVID-19 testing,People dying or getting sick
+People losing jobs,NOT Economic Downturn / Recession
+People losing jobs,NOT People don't understand situation
+Economic Downturn / Recession,NOT Me feeling worry
+Economic Downturn / Recession,NOT My support of government recommendations and regulations
+Economic Downturn / Recession,NOT People don't understand situation
+My personal risk of becoming infected,NOT Me feeling worry
+Curbside carryout (restaurants,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Spreading the virus
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Economic Downturn / Recession
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My personal risk of becoming infected
+Wearing Masks,People breathing
+Wearing Masks,Spreading the virus
+Wearing Masks,My personal risk of becoming infected
+People don't understand situation,NOT People dying or getting sick
+People don't understand situation,NOT Me feeling worry
+People don't understand situation,NOT My personal risk of becoming infected
+People touching things,NOT Spreading the virus

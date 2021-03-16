@@ -1,0 +1,22 @@
+Source,Target
+People gathering,People dying or getting sick
+People gathering,NOT People recovering
+People gathering,My personal risk of becoming infected
+People breathing,People dying or getting sick
+People breathing,NOT People recovering
+People breathing,My personal risk of becoming infected
+Media coverage,Me feeling worry
+People dying or getting sick,Me feeling worry
+My support of government recommendations and regulations,People recovering
+People recovering,NOT Me feeling worry
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,NOT My personal risk of becoming infected
+COVID-19 testing,NOT People gathering
+COVID-19 testing,NOT People dying or getting sick
+COVID-19 testing,Me feeling worry
+My personal risk of becoming infected,Me feeling worry
+Young people not feeling at risk,People gathering
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,NOT People recovering
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,NOT My personal risk of becoming infected

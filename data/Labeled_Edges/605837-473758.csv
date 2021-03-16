@@ -1,0 +1,37 @@
+Source,Target
+Poverty,NOT Homelessness
+Practicing hygiene/handwashing,Wearing Masks
+Timely and reliable information,Media coverage
+Timely and reliable information,NOT Me feeling worry
+Timely and reliable information,NOT People don't understand situation
+People gathering,NOT Coordinated
+People not following the guidelines and protocols related to the COVID-19,People gathering
+People breathing,NOT Me feeling worry
+Media coverage,People don't understand situation
+Put infected people in quarantine,Help and support from family
+People dying or getting sick,NOT People not following the guidelines and protocols related to the COVID-19
+People dying or getting sick,COVID-19 testing
+My support of government recommendations and regulations,Practicing hygiene/handwashing
+My support of government recommendations and regulations,Media coverage
+My support of government recommendations and regulations,Wearing Masks
+COVID-19 testing,Put infected people in quarantine
+COVID-19 testing,People dying or getting sick
+COVID-19 testing,People recovering
+COVID-19 testing,Coordinated
+People losing jobs,NOT Poverty
+Economic Downturn / Recession,NOT People losing jobs
+Economic Downturn / Recession,Curbside carryout (restaurants
+Economic Downturn / Recession,Working/teaching from home
+Economic Downturn / Recession,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+My personal risk of becoming infected,NOT People gathering
+My personal risk of becoming infected,NOT People not following the guidelines and protocols related to the COVID-19
+My personal risk of becoming infected,NOT People breathing
+My personal risk of becoming infected,NOT People touching things
+Working/teaching from home,Curbside carryout (restaurants
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Working/teaching from home
+People don't understand situation,NOT People losing jobs
+People don't understand situation,NOT Economic Downturn / Recession
+People don't understand situation,NOT Coordinated
+Coordinated,NOT Me feeling worry
+Coordinated,NOT Economic Downturn / Recession
+Coordinated,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses

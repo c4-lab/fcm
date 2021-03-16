@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49decdd7-002f-490a-8fbf-898b2135db12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/arff_to_clusters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/representative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/testprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/console_out_iteration_range.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/console_out_same.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/representatives/OPTICS/console.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/representatives/affinitypropagation/console.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/representatives/agglomerative/console.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cluster.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/cluster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/design_of_experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/design_of_experiment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/draw_screeplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/draw_screeplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/json_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/json_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/within_fcm_walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/within_fcm_walk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/edgesclusters_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/edgesclusters_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/representatives/edgesclusters_dist.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/result/representatives/edgesclusters_dist.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/representatives/edgesclusters_dist_one_dimension.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/result/representatives/edgesclusters_dist_one_dimension.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/representatives/edgesclusters_freq.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/result/representatives/edgesclusters_freq.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/representatives/edgesclusters_freq_one_dimension.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/result/representatives/edgesclusters_freq_one_dimension.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/directed_edgenode_uniform.embedding" beforeDir="false" afterPath="$PROJECT_DIR$/saved_models/directed_edgenode_uniform.embedding" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hWavU7p57hV8AwN6xt3J3kwtXX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reference" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Dipto\PycharmProjects\fcm\reference" />
+      <recent name="D:\Users\Dipto\PycharmProjects\fcm\data" />
+      <recent name="D:\Users\Dipto\PycharmProjects\fcm\plots" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.design_of_experiment">
+    <configuration name="arff_to_clusters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/arff_to_clusters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cluster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/cluster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="design_of_experiment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/design_of_experiment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="representative" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/representative.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/testprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.design_of_experiment" />
+        <item itemvalue="Python.arff_to_clusters" />
+        <item itemvalue="Python.representative" />
+        <item itemvalue="Python.testprocess" />
+        <item itemvalue="Python.cluster" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49decdd7-002f-490a-8fbf-898b2135db12" name="Default Changelist" comment="" />
+      <created>1600129532977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600129532977</updated>
+      <workItem from="1600129541358" duration="1784000" />
+      <workItem from="1600299097664" duration="2712000" />
+      <workItem from="1600392892668" duration="620000" />
+      <workItem from="1600527496058" duration="357000" />
+      <workItem from="1600533364028" duration="864000" />
+      <workItem from="1601219102426" duration="8550000" />
+      <workItem from="1601319751854" duration="1806000" />
+      <workItem from="1601731933919" duration="10766000" />
+      <workItem from="1601752113133" duration="1224000" />
+      <workItem from="1601926003547" duration="1974000" />
+      <workItem from="1601935481497" duration="2903000" />
+      <workItem from="1602258374087" duration="2476000" />
+      <workItem from="1602899043441" duration="318000" />
+      <workItem from="1602902383067" duration="13996000" />
+      <workItem from="1603132843933" duration="612000" />
+      <workItem from="1603966678672" duration="2912000" />
+      <workItem from="1604012149681" duration="2070000" />
+      <workItem from="1604074261391" duration="4682000" />
+      <workItem from="1604191047067" duration="1200000" />
+      <workItem from="1604333708548" duration="4608000" />
+      <workItem from="1604383511250" duration="2093000" />
+      <workItem from="1604387988612" duration="359000" />
+      <workItem from="1604407424932" duration="6088000" />
+      <workItem from="1604595764930" duration="4000" />
+      <workItem from="1604679836985" duration="2820000" />
+      <workItem from="1604712609866" duration="13387000" />
+      <workItem from="1604727236833" duration="29000" />
+      <workItem from="1604727293963" duration="449000" />
+      <workItem from="1604764214646" duration="1605000" />
+      <workItem from="1604770748608" duration="1209000" />
+      <workItem from="1604882179002" duration="6000" />
+      <workItem from="1604964173869" duration="37000" />
+      <workItem from="1605593838162" duration="10833000" />
+      <workItem from="1605627470868" duration="12966000" />
+      <workItem from="1605662322664" duration="339000" />
+      <workItem from="1605662678143" duration="1079000" />
+      <workItem from="1605714256146" duration="12000" />
+      <workItem from="1605720289392" duration="599000" />
+      <workItem from="1605853329836" duration="1201000" />
+      <workItem from="1606181173715" duration="21101000" />
+      <workItem from="1606238661829" duration="6167000" />
+      <workItem from="1606768172844" duration="869000" />
+      <workItem from="1606874654483" duration="3439000" />
+      <workItem from="1606921467247" duration="1219000" />
+      <workItem from="1607343051919" duration="1607000" />
+      <workItem from="1607521926670" duration="6380000" />
+      <workItem from="1607705484904" duration="669000" />
+      <workItem from="1607738117922" duration="6000" />
+      <workItem from="1607774518887" duration="3682000" />
+      <workItem from="1607778574306" duration="563000" />
+      <workItem from="1607959515299" duration="751000" />
+      <workItem from="1608180314888" duration="17000" />
+      <workItem from="1608518814854" duration="1178000" />
+      <workItem from="1608658724135" duration="684000" />
+      <workItem from="1608858277520" duration="609000" />
+      <workItem from="1609341919158" duration="4308000" />
+      <workItem from="1609373966103" duration="139000" />
+      <workItem from="1609787369009" duration="69000" />
+      <workItem from="1610062209838" duration="9758000" />
+      <workItem from="1610083235415" duration="655000" />
+      <workItem from="1610777876988" duration="91000" />
+      <workItem from="1610983114189" duration="761000" />
+      <workItem from="1611018028845" duration="6169000" />
+      <workItem from="1611104861589" duration="5226000" />
+      <workItem from="1611156480634" duration="640000" />
+      <workItem from="1611264252414" duration="1512000" />
+      <workItem from="1611539964602" duration="1612000" />
+      <workItem from="1611586908624" duration="1398000" />
+      <workItem from="1612187376446" duration="3887000" />
+      <workItem from="1612364526298" duration="7435000" />
+      <workItem from="1612405782052" duration="649000" />
+      <workItem from="1612488801510" duration="8876000" />
+      <workItem from="1612529121370" duration="2834000" />
+      <workItem from="1612798337761" duration="605000" />
+      <workItem from="1613266167657" duration="2157000" />
+      <workItem from="1613278803958" duration="535000" />
+      <workItem from="1613279353079" duration="5112000" />
+      <workItem from="1613307922062" duration="12660000" />
+      <workItem from="1613401282309" duration="13105000" />
+      <workItem from="1613740505710" duration="3459000" />
+      <workItem from="1613915434442" duration="626000" />
+      <workItem from="1613927355001" duration="1941000" />
+      <workItem from="1613951976468" duration="2656000" />
+      <workItem from="1614006098500" duration="5452000" />
+      <workItem from="1614263443369" duration="1339000" />
+      <workItem from="1614475063615" duration="2244000" />
+      <workItem from="1614610397820" duration="1994000" />
+      <workItem from="1614965357044" duration="21277000" />
+      <workItem from="1615208973514" duration="7066000" />
+      <workItem from="1615559744225" duration="624000" />
+      <workItem from="1615782318797" duration="3303000" />
+      <workItem from="1615816773427" duration="1649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fcm$testprocess.coverage" NAME="testprocess Coverage Results" MODIFIED="1615210563969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$fcm_similarity.coverage" NAME="fcm_similarity Coverage Results" MODIFIED="1613285192119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$test.coverage" NAME="test Coverage Results" MODIFIED="1606203570056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$within_fcm_walk.coverage" NAME="within_fcm_walk Coverage Results" MODIFIED="1613310001470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$media_data_clean.coverage" NAME="media_data_clean Coverage Results" MODIFIED="1613279988836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$cluster.coverage" NAME="cluster Coverage Results" MODIFIED="1614997524478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$json_to_csv.coverage" NAME="json_to_csv Coverage Results" MODIFIED="1613281571107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$below_threshold_analysis.coverage" NAME="below_threshold_analysis Coverage Results" MODIFIED="1612365092555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$utils.coverage" NAME="utils Coverage Results" MODIFIED="1613280583884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$edge_cluster_representatives.coverage" NAME="edge_cluster_representatives Coverage Results" MODIFIED="1606195100717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$individual_node2vec.coverage" NAME="individual_node2vec Coverage Results" MODIFIED="1613314783445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$graph.coverage" NAME="graph Coverage Results" MODIFIED="1612490979379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$representative.coverage" NAME="representative Coverage Results" MODIFIED="1615214890170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$sim_check.coverage" NAME="sim_check Coverage Results" MODIFIED="1604408921067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$merge_survey_mediabias.coverage" NAME="merge_survey_mediabias Coverage Results" MODIFIED="1613280275525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$regression.coverage" NAME="regression Coverage Results" MODIFIED="1613285239814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$design_of_experiment.coverage" NAME="design_of_experiment Coverage Results" MODIFIED="1615823221047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$arff_to_clusters.coverage" NAME="arff_to_clusters Coverage Results" MODIFIED="1615215428220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$community.coverage" NAME="community Coverage Results" MODIFIED="1601219392751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$community_random_walk.coverage" NAME="community_random_walk Coverage Results" MODIFIED="1605631944137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$media_bias_data_map_process.coverage" NAME="media_bias_data_map_process Coverage Results" MODIFIED="1613280176700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$random_walk.coverage" NAME="random_walk Coverage Results" MODIFIED="1601220324139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/fcm$draw_screeplot.coverage" NAME="draw_screeplot Coverage Results" MODIFIED="1614007764632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>

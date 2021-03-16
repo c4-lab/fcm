@@ -1,0 +1,25 @@
+Source,Target
+Poverty,People dying or getting sick
+Practicing hygiene/handwashing,NOT People dying or getting sick
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected
+People gathering,NOT My support of government recommendations and regulations
+Media coverage,Me feeling worry
+Media coverage,My support of government recommendations and regulations
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,Me feeling worry
+Infected people don't know they are spreading virus,Wearing Masks
+People dying or getting sick,Me feeling worry
+Government financial support for families,My support of government recommendations and regulations
+Government financial support for families,NOT Economic Downturn / Recession
+People recovering,NOT Me feeling worry
+People recovering,My support of government recommendations and regulations
+COVID-19 testing,NOT Me feeling worry
+COVID-19 testing,NOT My personal risk of becoming infected
+People losing jobs,Poverty
+Economic Downturn / Recession,People losing jobs
+My personal risk of becoming infected,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Economic Downturn / Recession
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,Me feeling worry
+Wearing Masks,NOT My personal risk of becoming infected

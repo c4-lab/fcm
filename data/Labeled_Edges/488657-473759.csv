@@ -1,0 +1,62 @@
+Source,Target
+Practicing hygiene/handwashing,NOT People dying or getting sick
+Practicing hygiene/handwashing,NOT Me feeling worry
+Practicing hygiene/handwashing,People recovering
+Practicing hygiene/handwashing,NOT My personal risk of becoming infected
+People gathering,People dying or getting sick
+People gathering,Me feeling worry
+People gathering,My personal risk of becoming infected
+Government financial support for businesses,My support of government recommendations and regulations
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,Me feeling worry
+Infected people don't know they are spreading virus,NOT People recovering
+Infected people don't know they are spreading virus,Returning home or to work from infected areas
+Infected people don't know they are spreading virus,My personal risk of becoming infected
+People dying or getting sick,Me feeling worry
+People dying or getting sick,My personal risk of becoming infected
+Government financial support for families,NOT Me feeling worry
+Government financial support for families,My support of government recommendations and regulations
+My support of government recommendations and regulations,NOT Me feeling worry
+People recovering,NOT Me feeling worry
+Access to free healthcare for COVID-19 patients,NOT People dying or getting sick
+Access to free healthcare for COVID-19 patients,NOT Me feeling worry
+Access to free healthcare for COVID-19 patients,People recovering
+Access to free healthcare for COVID-19 patients,NOT My personal risk of becoming infected
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,My support of government recommendations and regulations
+Developing a vaccine,People recovering
+Developing a vaccine,NOT People losing jobs
+Developing a vaccine,NOT My personal risk of becoming infected
+Developing a vaccine,NOT Homelessness
+COVID-19 testing,NOT Me feeling worry
+COVID-19 testing,My support of government recommendations and regulations
+People losing jobs,Me feeling worry
+People losing jobs,Economic Downturn / Recession
+People losing jobs,Homelessness
+Returning home or to work from infected areas,People dying or getting sick
+Returning home or to work from infected areas,My personal risk of becoming infected
+Economic Downturn / Recession,NOT Government financial support for businesses
+Economic Downturn / Recession,NOT Government financial support for families
+Economic Downturn / Recession,Me feeling worry
+My personal risk of becoming infected,Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,NOT Me feeling worry
+Wearing Masks,People recovering
+Homelessness,People dying or getting sick
+Coordinated,Government financial support for businesses
+Coordinated,NOT People dying or getting sick
+Coordinated,Government financial support for families
+Coordinated,NOT Me feeling worry
+Coordinated,My support of government recommendations and regulations
+Coordinated,People recovering
+Coordinated,Access to free healthcare for COVID-19 patients
+Coordinated,Developing a vaccine
+Coordinated,COVID-19 testing
+Coordinated,NOT People losing jobs
+Coordinated,NOT Homelessness

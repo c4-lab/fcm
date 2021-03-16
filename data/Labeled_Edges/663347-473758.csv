@@ -1,0 +1,75 @@
+Source,Target
+Poverty,People dying or getting sick
+Poverty,NOT My support of government recommendations and regulations
+People gathering,People dying or getting sick
+People gathering,NOT My support of government recommendations and regulations
+People gathering,NOT People recovering
+People gathering,My personal risk of becoming infected
+People gathering,Me feeling contempt
+Government financial support for businesses,My support of government recommendations and regulations
+Government financial support for businesses,NOT Me feeling contempt
+People dying or getting sick,Poverty
+People dying or getting sick,People gathering
+People dying or getting sick,NOT Developing a vaccine
+People dying or getting sick,NOT COVID-19 testing
+People dying or getting sick,People losing jobs
+People dying or getting sick,Returning home or to work from infected areas
+People dying or getting sick,Economic Downturn / Recession
+People dying or getting sick,NOT Young people not feeling at risk
+People dying or getting sick,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People dying or getting sick,Homelessness
+People dying or getting sick,NOT People touching things
+My support of government recommendations and regulations,People gathering
+My support of government recommendations and regulations,Government financial support for businesses
+My support of government recommendations and regulations,COVID-19 testing
+My support of government recommendations and regulations,NOT People losing jobs
+My support of government recommendations and regulations,Young people not feeling at risk
+My support of government recommendations and regulations,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People recovering,NOT Poverty
+People recovering,NOT People gathering
+People recovering,Government financial support for businesses
+People recovering,Developing a vaccine
+People recovering,COVID-19 testing
+People recovering,NOT People losing jobs
+People recovering,NOT Returning home or to work from infected areas
+People recovering,NOT Economic Downturn / Recession
+People recovering,Me feeling contempt
+People recovering,NOT Young people not feeling at risk
+People recovering,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People recovering,Homelessness
+People recovering,NOT People touching things
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,My support of government recommendations and regulations
+Developing a vaccine,People recovering
+Developing a vaccine,NOT My personal risk of becoming infected
+Developing a vaccine,NOT Me feeling contempt
+COVID-19 testing,NOT People dying or getting sick
+COVID-19 testing,My support of government recommendations and regulations
+COVID-19 testing,People recovering
+COVID-19 testing,NOT Me feeling contempt
+People losing jobs,NOT My support of government recommendations and regulations
+People losing jobs,Me feeling contempt
+Returning home or to work from infected areas,People dying or getting sick
+Returning home or to work from infected areas,NOT People recovering
+Returning home or to work from infected areas,NOT My personal risk of becoming infected
+Returning home or to work from infected areas,Me feeling contempt
+Economic Downturn / Recession,NOT My support of government recommendations and regulations
+Economic Downturn / Recession,Me feeling contempt
+My personal risk of becoming infected,NOT People dying or getting sick
+My personal risk of becoming infected,Me feeling contempt
+My personal risk of becoming infected,NOT Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Me feeling contempt,People dying or getting sick
+Me feeling contempt,My support of government recommendations and regulations
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,NOT People recovering
+Young people not feeling at risk,Developing a vaccine
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling contempt
+Homelessness,People dying or getting sick
+People touching things,People dying or getting sick
+People touching things,NOT People recovering
+People touching things,My personal risk of becoming infected
+People touching things,Me feeling contempt

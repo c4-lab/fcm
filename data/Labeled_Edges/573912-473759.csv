@@ -1,0 +1,28 @@
+Source,Target
+Poverty,Me feeling worry
+Poverty,Economic assistance that the government has made available
+Practicing hygiene/handwashing,My support of government recommendations and regulations
+People returning home or to work from infected areas,People dying or getting sick
+People returning home or to work from infected areas,NOT Economic Downturn / Recession
+People returning home or to work from infected areas,NOT Economic assistance that the government has made available
+People gathering,People dying or getting sick
+People dying or getting sick,People gathering
+Me feeling worry,Practicing hygiene/handwashing
+Me feeling worry,People gathering
+Me feeling worry,People dying or getting sick
+Me feeling worry,Wearing Masks
+My support of government recommendations and regulations,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+My support of government recommendations and regulations,NOT Wearing Masks
+People recovering,My support of government recommendations and regulations
+People recovering,COVID-19 testing
+COVID-19 testing,Economic assistance that the government has made available
+Economic Downturn / Recession,Me feeling worry
+Economic Downturn / Recession,Economic assistance that the government has made available
+My personal risk of becoming infected,Asymptomatic people
+Economic assistance that the government has made available,NOT Economic Downturn / Recession
+People not feeling at risk,NOT People returning home or to work from infected areas
+People not feeling at risk,Me feeling worry
+Young people not feeling at risk,Asymptomatic people
+Young people not feeling at risk,People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Wearing Masks,My support of government recommendations and regulations

@@ -1,0 +1,17 @@
+Source,Target
+Poverty,NOT Economy
+People dying or getting sick,NOT Economy
+Government financial support for families,NOT Poverty
+Government financial support for families,Economy
+Government financial support for families,NOT Me feeling contempt
+People recovering,Economy
+People recovering,NOT Me feeling contempt
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,Economy
+Developing a vaccine,NOT My personal risk of becoming infected
+Developing a vaccine,NOT Me feeling contempt
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Economy
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Wearing Masks,My support of government recommendations and regulations
+Wearing Masks,NOT My personal risk of becoming infected
+Wearing Masks,Social Distancing/ Shelter in Place / Closure of non-essential businesses

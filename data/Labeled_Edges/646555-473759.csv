@@ -1,0 +1,28 @@
+Source,Target
+Practicing hygiene/handwashing,People recovering
+Practicing hygiene/handwashing,Returning home or to work from infected areas
+Practicing hygiene/handwashing,My personal risk of becoming infected
+Timely and reliable information,Economic Downturn / Recession
+Timely and reliable information,People don't understand situation
+People gathering,Infected people don't know they are spreading virus
+People gathering,Me feeling worry
+Media coverage,Me feeling worry
+Infected people don't know they are spreading virus,NOT COVID-19 testing
+People dying or getting sick,Me feeling worry
+Government financial support for families,NOT Economic Downturn / Recession
+My support of government recommendations and regulations,NOT COVID-19 testing
+People recovering,NOT Me feeling worry
+People recovering,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+COVID-19 testing,NOT Media coverage
+People losing jobs,NOT Government financial support for families
+People losing jobs,Me feeling worry
+Returning home or to work from infected areas,NOT Infected people don't know they are spreading virus
+Returning home or to work from infected areas,Me feeling worry
+Economic Downturn / Recession,Me feeling worry
+My personal risk of becoming infected,NOT Me feeling worry
+Curbside carryout (restaurants,NOT My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Wearing Masks
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Herd Immunity (virus cannot spread because many people are immune)
+Wearing Masks,People gathering
+People don't understand situation,NOT Wearing Masks

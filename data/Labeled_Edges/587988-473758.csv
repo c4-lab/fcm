@@ -1,0 +1,32 @@
+Source,Target
+People gathering,Me feeling worry
+People gathering,NOT People recovering
+People gathering,My personal risk of becoming infected
+People dying or getting sick,Me feeling worry
+People dying or getting sick,My personal risk of becoming infected
+Me feeling worry,My support of government recommendations and regulations
+Me feeling worry,NOT My personal risk of becoming infected
+People recovering,NOT Me feeling worry
+Access to free healthcare for COVID-19 patients,NOT People dying or getting sick
+Access to free healthcare for COVID-19 patients,NOT Me feeling worry
+Access to free healthcare for COVID-19 patients,My support of government recommendations and regulations
+Access to free healthcare for COVID-19 patients,People recovering
+Access to free healthcare for COVID-19 patients,NOT My personal risk of becoming infected
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,NOT My personal risk of becoming infected
+My personal risk of becoming infected,NOT People gathering
+Young people not feeling at risk,People gathering
+Young people not feeling at risk,People dying or getting sick
+Young people not feeling at risk,Me feeling worry
+Young people not feeling at risk,NOT People recovering
+Young people not feeling at risk,My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Developing a vaccine
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Homelessness
+Homelessness,People dying or getting sick
+Homelessness,Me feeling worry
+Homelessness,NOT People recovering

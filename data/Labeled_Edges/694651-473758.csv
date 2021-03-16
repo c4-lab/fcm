@@ -1,0 +1,22 @@
+Source,Target
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,NOT People recovering
+Infected people don't know they are spreading virus,My personal risk of becoming infected
+People dying or getting sick,My personal risk of becoming infected
+People dying or getting sick,Me feeling contempt
+People dying or getting sick,People touching things
+My support of government recommendations and regulations,Developing a vaccine
+My support of government recommendations and regulations,NOT My personal risk of becoming infected
+My support of government recommendations and regulations,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+People recovering,NOT Me feeling contempt
+People recovering,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,People recovering
+My personal risk of becoming infected,My support of government recommendations and regulations
+My personal risk of becoming infected,NOT Developing a vaccine
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People touching things
+People touching things,NOT People dying or getting sick
+People touching things,NOT People recovering
+People touching things,My personal risk of becoming infected
+People touching things,Me feeling contempt

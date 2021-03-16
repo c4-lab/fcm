@@ -1,0 +1,36 @@
+Source,Target
+People dying,NOT People gathering
+People dying,Media coverage
+People dying,NOT My support of government recommendations and regulations
+People dying,NOT People recovering
+People dying,Developing a vaccine
+People gathering,People dying
+People gathering,People getting sick
+Media coverage,Me feeling worry
+People getting sick,People dying
+People getting sick,NOT People gathering
+People getting sick,Media coverage
+People getting sick,Me feeling worry
+People getting sick,People recovering
+People getting sick,Developing a vaccine
+People getting sick,Economic Downturn / Recession
+People getting sick,My personal risk of becoming infected
+People getting sick,Curbside carryout (restaurants
+People getting sick,Homelessness
+People recovering,NOT People dying
+People recovering,My support of government recommendations and regulations
+People recovering,NOT My personal risk of becoming infected
+Developing a vaccine,NOT People dying
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,NOT People getting sick
+Developing a vaccine,My support of government recommendations and regulations
+Developing a vaccine,NOT My personal risk of becoming infected
+Economic Downturn / Recession,Media coverage
+Economic Downturn / Recession,Me feeling worry
+Economic Downturn / Recession,NOT My support of government recommendations and regulations
+Economic Downturn / Recession,Homelessness
+My personal risk of becoming infected,Me feeling worry
+Curbside carryout (restaurants,NOT Me feeling worry
+Curbside carryout (restaurants,NOT People getting sick
+Curbside carryout (restaurants,NOT My personal risk of becoming infected
+Homelessness,People gathering

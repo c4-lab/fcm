@@ -1,0 +1,24 @@
+Source,Target
+Timely and reliable information,Economic Downturn / Recession
+Timely and reliable information,Me feeling sympathy
+Media coverage,Me feeling worry
+Media coverage,My support of government recommendations and regulations
+People dying or getting sick,NOT Developing a vaccine
+People dying or getting sick,Me feeling sympathy
+My support of government recommendations and regulations,Media coverage
+People recovering,NOT Me feeling worry
+People recovering,Developing a vaccine
+People recovering,NOT Me feeling sympathy
+Developing a vaccine,NOT Media coverage
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,NOT My support of government recommendations and regulations
+Developing a vaccine,NOT Economic Downturn / Recession
+Developing a vaccine,NOT My personal risk of becoming infected
+Developing a vaccine,NOT Me feeling sympathy
+Returning home or to work from infected areas,Me feeling worry
+Economic Downturn / Recession,NOT My support of government recommendations and regulations
+Economic Downturn / Recession,NOT Returning home or to work from infected areas
+Young people not feeling at risk,Economic Downturn / Recession
+Young people not feeling at risk,NOT My personal risk of becoming infected
+Coordinated,NOT My support of government recommendations and regulations
+Coordinated,NOT Economic Downturn / Recession

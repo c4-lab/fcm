@@ -1,0 +1,27 @@
+Source,Target
+Practicing hygiene/handwashing,NOT People dying or getting sick
+Practicing hygiene/handwashing,People recovering
+Infected people don't know they are spreading virus,People breathing
+Infected people don't know they are spreading virus,NOT My personal risk of becoming infected
+People dying or getting sick,Me feeling worry
+People dying or getting sick,NOT People recovering
+People dying or getting sick,My personal risk of becoming infected
+My support of government recommendations and regulations,Practicing hygiene/handwashing
+My support of government recommendations and regulations,NOT Infected people don't know they are spreading virus
+My support of government recommendations and regulations,People recovering
+My support of government recommendations and regulations,NOT My personal risk of becoming infected
+People recovering,NOT Returning home or to work from infected areas
+People recovering,NOT My personal risk of becoming infected
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,People recovering
+Developing a vaccine,NOT My personal risk of becoming infected
+Returning home or to work from infected areas,NOT People breathing
+Returning home or to work from infected areas,NOT Me feeling worry
+Returning home or to work from infected areas,NOT My personal risk of becoming infected
+My personal risk of becoming infected,Me feeling worry
+My personal risk of becoming infected,My support of government recommendations and regulations
+People don't understand situation,Infected people don't know they are spreading virus
+People don't understand situation,Me feeling worry
+People don't understand situation,NOT Developing a vaccine
+People don't understand situation,My personal risk of becoming infected

@@ -1,0 +1,11 @@
+Source,Target
+Coronavirus,NOT Hospital beds/ventilators
+Coronavirus,NOT Economic Downturn / Recession
+Coronavirus,NOT Access to healthcare
+Coronavirus,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Government/law enforcement,Hospital beds/ventilators
+Government/law enforcement,Economic Downturn / Recession
+Government/law enforcement,Access to healthcare
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Coronavirus
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Economic Downturn / Recession
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Access to healthcare

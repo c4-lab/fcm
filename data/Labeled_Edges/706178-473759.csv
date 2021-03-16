@@ -1,0 +1,17 @@
+Source,Target
+People gathering,Infected people don't know they are spreading virus
+People gathering,People dying or getting sick
+People gathering,Me feeling worry
+Infected people don't know they are spreading virus,NOT People recovering
+Put infected people in quarantine,People recovering
+Put infected people in quarantine,NOT My personal risk of becoming infected
+People recovering,My support of government recommendations and regulations
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,NOT My personal risk of becoming infected
+My personal risk of becoming infected,My support of government recommendations and regulations
+Homelessness,NOT Put infected people in quarantine
+Homelessness,People dying or getting sick
+Homelessness,NOT People recovering
+Coordinated,NOT Me feeling worry
+Coordinated,My support of government recommendations and regulations
+Coordinated,People recovering

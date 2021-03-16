@@ -1,0 +1,18 @@
+Source,Target
+People dying or getting sick,NOT My support of government recommendations and regulations
+People dying or getting sick,Economic Downturn / Recession
+People dying or getting sick,Me feeling contempt
+People recovering,My support of government recommendations and regulations
+People recovering,NOT My personal risk of becoming infected
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,My support of government recommendations and regulations
+Developing a vaccine,People recovering
+Developing a vaccine,NOT Economic Downturn / Recession
+Developing a vaccine,NOT Me feeling contempt
+COVID-19 testing,People dying or getting sick
+Young people not feeling at risk,NOT My support of government recommendations and regulations
+Young people not feeling at risk,My personal risk of becoming infected
+Young people not feeling at risk,NOT Wearing Masks
+Wearing Masks,My support of government recommendations and regulations
+Wearing Masks,People recovering
+Wearing Masks,NOT My personal risk of becoming infected

@@ -1,0 +1,29 @@
+Source,Target
+Poverty,Access to free healthcare for COVID-19 patients
+People gathering,People dying or getting sick
+People gathering,Young people not feeling at risk
+Government financial support for businesses,Poverty
+Government financial support for businesses,People losing jobs
+People breathing,Infected people don't know they are spreading virus
+Infected people don't know they are spreading virus,People gathering
+Infected people don't know they are spreading virus,My personal risk of becoming infected
+People dying or getting sick,Me feeling worry
+Government financial support for families,Poverty
+Me feeling worry,Poverty
+Me feeling worry,People gathering
+Me feeling worry,People breathing
+Me feeling worry,Infected people don't know they are spreading virus
+Me feeling worry,People losing jobs
+Me feeling worry,Young people not feeling at risk
+Me feeling worry,People don't understand situation
+My support of government recommendations and regulations,Government financial support for businesses
+My support of government recommendations and regulations,Government financial support for families
+My support of government recommendations and regulations,Access to free healthcare for COVID-19 patients
+People recovering,Me feeling worry
+People recovering,Access to free healthcare for COVID-19 patients
+Access to free healthcare for COVID-19 patients,People dying or getting sick
+Access to free healthcare for COVID-19 patients,My personal risk of becoming infected
+People losing jobs,Poverty
+My personal risk of becoming infected,Me feeling worry
+Young people not feeling at risk,People gathering
+People don't understand situation,People gathering

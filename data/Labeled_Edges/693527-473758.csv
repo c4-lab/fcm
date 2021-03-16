@@ -1,0 +1,27 @@
+Source,Target
+Poverty,NOT Economic Downturn / Recession
+Practicing hygiene/handwashing,People dying or getting sick
+People gathering,NOT People dying or getting sick
+People gathering,NOT People recovering
+Put infected people in quarantine,People dying or getting sick
+Put infected people in quarantine,People touching things
+People dying or getting sick,NOT People losing jobs
+My support of government recommendations and regulations,People dying or getting sick
+My support of government recommendations and regulations,People recovering
+My support of government recommendations and regulations,Coordinated
+People recovering,People dying or getting sick
+Developing a vaccine,People dying or getting sick
+Developing a vaccine,NOT Government financial support for families
+People losing jobs,NOT Homelessness
+Economic Downturn / Recession,NOT Government financial support for families
+Economic Downturn / Recession,NOT Developing a vaccine
+Young people not feeling at risk,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People losing jobs
+Wearing Masks,People dying or getting sick
+Me feeling sympathy,My support of government recommendations and regulations
+Me feeling sympathy,People losing jobs
+Homelessness,NOT Poverty
+Coordinated,People dying or getting sick
+Coordinated,People recovering
+People touching things,NOT People dying or getting sick

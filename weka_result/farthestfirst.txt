@@ -1,0 +1,49 @@
+=== Run information ===
+
+Scheme:       weka.clusterers.FarthestFirst -N 2 -S 1
+Relation:     directed_edgenode_uniform_processed-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    757
+Attributes:   16
+              dim_1
+              dim_2
+              dim_3
+              dim_4
+              dim_5
+              dim_6
+              dim_7
+              dim_8
+              dim_9
+              dim_10
+              dim_11
+              dim_12
+              dim_13
+              dim_14
+              dim_15
+              dim_16
+Test mode:    evaluate on training data
+
+
+=== Clustering model (full training set) ===
+
+
+FarthestFirst
+==============
+
+Cluster centroids:
+
+Cluster 0
+	 2.4882426 7.8746104 -5.3883686 2.9481523 -6.6876254 4.086484 -2.4736335 4.0595593 -2.653253 -1.6709173 -1.500781 -3.0410676 3.7256382 -2.602159 2.2275546 -3.2022734
+Cluster 1
+	 1.6016998 0.6845933 3.3578029 -4.6906734 -5.051037 3.3588138 0.48252052 -0.58955497 0.16890001 -0.82789415 -1.4389274 -8.98505 -0.90321565 8.801606 0.08036345 4.3844066
+
+
+
+Time taken to build model (full training data) : 0.01 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+0      310 ( 41%)
+1      447 ( 59%)
+

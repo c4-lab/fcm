@@ -1,0 +1,528 @@
+D:\Users\Dipto\PycharmProjects\fcm\venv\Scripts\python.exe D:/Users/Dipto/PycharmProjects/fcm/code/design_of_experiment.py
+D:\Users\Dipto\PycharmProjects\fcm\venv\lib\site-packages\sklearn\utils\deprecation.py:143: FutureWarning: The sklearn.metrics.classification module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.metrics. Anything that cannot be imported from sklearn.metrics is now part of the private API.
+  warnings.warn(message, FutureWarning)
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 5000000/5000000 [01:50<00:00, 45214.74it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 10000000/10000000 [03:47<00:00, 44033.61it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 15000000/15000000 [05:33<00:00, 44953.88it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 20000000/20000000 [07:28<00:00, 44632.54it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 25000000/25000000 [09:25<00:00, 44185.17it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 30000000/30000000 [11:17<00:00, 44276.77it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 35000000/35000000 [13:03<00:00, 44671.21it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 40000000/40000000 [13:55<00:00, 47881.16it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 45000000/45000000 [16:35<00:00, 45193.41it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 50000000/50000000 [18:44<00:00, 44473.43it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+
+******************
+number of dimensions:  16
+Walk iteration: 100%|##########| 55000000/55000000 [20:29<00:00, 44726.88it/s]
+1033
+757 757
+cluster count:  3
+757 757
+cluster count:  4
+757 757
+cluster count:  5
+757 757
+cluster count:  6
+757 757
+cluster count:  7
+757 757
+cluster count:  8
+757 757
+cluster count:  9
+757 757
+cluster count:  10
+757 757
+cluster count:  11
+cluster number:  3
+VI:  0.2686377991090086
+Adj Rand Idx:  0.4074159565063932
+cluster number:  4
+VI:  0.2273089069383918
+Adj Rand Idx:  0.4074159565063932
+cluster number:  5
+VI:  0.18861802916164433
+Adj Rand Idx:  0.4074159565063932
+cluster number:  6
+VI:  0.16726504472825057
+Adj Rand Idx:  0.4074159565063932
+cluster number:  7
+VI:  0.14775078950995468
+Adj Rand Idx:  0.4074159565063932
+cluster number:  8
+VI:  0.13036834368525416
+Adj Rand Idx:  0.4074159565063932
+cluster number:  9
+VI:  0.13802112048910883
+Adj Rand Idx:  0.4074159565063932
+cluster number:  10
+VI:  0.22010213284332422
+Adj Rand Idx:  0.4074159565063932
+cluster number:  11
+VI:  0.2957134579323857
+Adj Rand Idx:  0.4074159565063932
+cluster number:  3
+VI:  0.5662093925317466
+Adj Rand Idx:  0.36857337842449334
+cluster number:  4
+VI:  0.3774729283544978
+Adj Rand Idx:  0.36857337842449334
+cluster number:  5
+VI:  0.6125122199679975
+Adj Rand Idx:  0.36857337842449334
+cluster number:  6
+VI:  0.8056592937409551
+Adj Rand Idx:  0.36857337842449334
+cluster number:  7
+VI:  0.7289298371941973
+Adj Rand Idx:  0.36857337842449334
+cluster number:  8
+VI:  0.6467968977920343
+Adj Rand Idx:  0.36857337842449334
+cluster number:  9
+VI:  0.5887510223491595
+Adj Rand Idx:  0.36857337842449334
+cluster number:  10
+VI:  0.5532840932919812
+Adj Rand Idx:  0.36857337842449334
+cluster number:  11
+VI:  0.5102508860359384
+Adj Rand Idx:  0.36857337842449334
+cluster number:  3
+VI:  0.1926450779423959
+Adj Rand Idx:  0.40085543860830597
+cluster number:  4
+VI:  0.16345642976930563
+Adj Rand Idx:  0.40085543860830597
+cluster number:  5
+VI:  0.138309286727874
+Adj Rand Idx:  0.40085543860830597
+cluster number:  6
+VI:  0.11476728047632097
+Adj Rand Idx:  0.40085543860830597
+cluster number:  7
+VI:  0.10373196504590558
+Adj Rand Idx:  0.40085543860830597
+cluster number:  8
+VI:  0.1459645440444922
+Adj Rand Idx:  0.40085543860830597
+cluster number:  9
+VI:  0.21023756778665856
+Adj Rand Idx:  0.40085543860830597
+cluster number:  10
+VI:  0.31117331452612274
+Adj Rand Idx:  0.40085543860830597
+cluster number:  11
+VI:  0.33338821869952
+Adj Rand Idx:  0.40085543860830597
+cluster number:  3
+VI:  0.0
+Adj Rand Idx:  0.45273002157823306
+cluster number:  4
+VI:  0.0
+Adj Rand Idx:  0.45273002157823306
+cluster number:  5
+VI:  0.0
+Adj Rand Idx:  0.45273002157823306
+cluster number:  6
+VI:  0.04759086540884725
+Adj Rand Idx:  0.45273002157823306
+cluster number:  7
+VI:  0.04258130062896857
+Adj Rand Idx:  0.45273002157823306
+cluster number:  8
+VI:  0.30423954557563226
+Adj Rand Idx:  0.45273002157823306
+cluster number:  9
+VI:  0.31682199568636904
+Adj Rand Idx:  0.45273002157823306
+cluster number:  10
+VI:  0.28874916062555156
+Adj Rand Idx:  0.45273002157823306
+cluster number:  11
+VI:  0.27156171058831635
+Adj Rand Idx:  0.45273002157823306
+cluster number:  3
+VI:  0.35517187232804714
+Adj Rand Idx:  0.4977443639926758
+cluster number:  4
+VI:  0.24418066222553242
+Adj Rand Idx:  0.4977443639926758
+cluster number:  5
+VI:  0.2003533638773599
+Adj Rand Idx:  0.4977443639926758
+cluster number:  6
+VI:  0.3467877805117844
+Adj Rand Idx:  0.4977443639926758
+cluster number:  7
+VI:  0.29918945769644145
+Adj Rand Idx:  0.4977443639926758
+cluster number:  8
+VI:  0.4368769996879235
+Adj Rand Idx:  0.4977443639926758
+cluster number:  9
+VI:  0.4611886631906705
+Adj Rand Idx:  0.4977443639926758
+cluster number:  10
+VI:  0.43124134739906844
+Adj Rand Idx:  0.4977443639926758
+cluster number:  11
+VI:  0.4932096976657967
+Adj Rand Idx:  0.4977443639926758
+cluster number:  3
+VI:  0.369803165473121
+Adj Rand Idx:  0.4044369440506806
+cluster number:  4
+VI:  1.1343629751118218
+Adj Rand Idx:  0.4044369440506806
+cluster number:  5
+VI:  1.0054580915763875
+Adj Rand Idx:  0.4044369440506806
+cluster number:  6
+VI:  0.8347199250822839
+Adj Rand Idx:  0.4044369440506806
+cluster number:  7
+VI:  0.7022246988787467
+Adj Rand Idx:  0.4044369440506806
+cluster number:  8
+VI:  0.6697988384075291
+Adj Rand Idx:  0.4044369440506806
+cluster number:  9
+VI:  0.615510588010677
+Adj Rand Idx:  0.4044369440506806
+cluster number:  10
+VI:  0.518959907538414
+Adj Rand Idx:  0.4044369440506806
+cluster number:  11
+VI:  0.5588985620811986
+Adj Rand Idx:  0.4044369440506806
+cluster number:  3
+VI:  0.22675864435883258
+Adj Rand Idx:  0.3187956964193912
+cluster number:  4
+VI:  0.17006898326912445
+Adj Rand Idx:  0.3187956964193912
+cluster number:  5
+VI:  0.32834282001098275
+Adj Rand Idx:  0.3187956964193912
+cluster number:  6
+VI:  0.29849347273725707
+Adj Rand Idx:  0.3187956964193912
+cluster number:  7
+VI:  0.28459417854320895
+Adj Rand Idx:  0.3187956964193912
+cluster number:  8
+VI:  0.2568288928316764
+Adj Rand Idx:  0.3187956964193912
+cluster number:  9
+VI:  0.2960413661994035
+Adj Rand Idx:  0.3187956964193912
+cluster number:  10
+VI:  0.3132813158309304
+Adj Rand Idx:  0.3187956964193912
+cluster number:  11
+VI:  0.43990734097795875
+Adj Rand Idx:  0.3187956964193912
+cluster number:  3
+VI:  0.0
+Adj Rand Idx:  0.34064734012951803
+cluster number:  4
+VI:  0.0
+Adj Rand Idx:  0.34064734012951803
+cluster number:  5
+VI:  0.18845019687037776
+Adj Rand Idx:  0.34064734012951803
+cluster number:  6
+VI:  0.21756555278212913
+Adj Rand Idx:  0.34064734012951803
+cluster number:  7
+VI:  0.25051113270876635
+Adj Rand Idx:  0.34064734012951803
+cluster number:  8
+VI:  0.22773739337160578
+Adj Rand Idx:  0.34064734012951803
+cluster number:  9
+VI:  0.21169954876797156
+Adj Rand Idx:  0.34064734012951803
+cluster number:  10
+VI:  0.32809954065486524
+Adj Rand Idx:  0.34064734012951803
+cluster number:  11
+VI:  0.35483773586933437
+Adj Rand Idx:  0.34064734012951803
+cluster number:  3
+VI:  0.3764276723149889
+Adj Rand Idx:  0.5023636753015915
+cluster number:  4
+VI:  0.4371418130109548
+Adj Rand Idx:  0.5023636753015915
+cluster number:  5
+VI:  0.330521858618039
+Adj Rand Idx:  0.5023636753015915
+cluster number:  6
+VI:  0.2823207542362417
+Adj Rand Idx:  0.5023636753015915
+cluster number:  7
+VI:  0.2556867208177283
+Adj Rand Idx:  0.5023636753015915
+cluster number:  8
+VI:  0.2185709065054774
+Adj Rand Idx:  0.5023636753015915
+cluster number:  9
+VI:  0.18563556442930956
+Adj Rand Idx:  0.5023636753015915
+cluster number:  10
+VI:  0.22903468835820562
+Adj Rand Idx:  0.5023636753015915
+cluster number:  11
+VI:  0.23843418384003057
+Adj Rand Idx:  0.5023636753015915
+cluster number:  3
+VI:  0.5101493570766485
+Adj Rand Idx:  0.507999902363336
+cluster number:  4
+VI:  0.36439239791189193
+Adj Rand Idx:  0.507999902363336
+cluster number:  5
+VI:  0.300087857103911
+Adj Rand Idx:  0.507999902363336
+cluster number:  6
+VI:  0.2616150549111018
+Adj Rand Idx:  0.507999902363336
+cluster number:  7
+VI:  0.2318860713984766
+Adj Rand Idx:  0.507999902363336
+cluster number:  8
+VI:  0.20822422737822394
+Adj Rand Idx:  0.507999902363336
+cluster number:  9
+VI:  0.18550885711878135
+Adj Rand Idx:  0.507999902363336
+cluster number:  10
+VI:  0.1619521768497297
+Adj Rand Idx:  0.507999902363336
+cluster number:  11
+VI:  0.16125022790908144
+Adj Rand Idx:  0.507999902363336
+
+Process finished with exit code 0

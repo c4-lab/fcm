@@ -1,0 +1,25 @@
+Source,Target
+Practicing hygiene/handwashing,People recovering
+People breathing,NOT People dying or getting sick
+People breathing,NOT Me feeling worry
+People breathing,NOT My personal risk of becoming infected
+Media coverage,NOT Me feeling worry
+Media coverage,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Infected people don't know they are spreading virus,NOT People dying or getting sick
+Infected people don't know they are spreading virus,NOT Me feeling worry
+Infected people don't know they are spreading virus,NOT My personal risk of becoming infected
+People dying or getting sick,NOT Infected people don't know they are spreading virus
+People dying or getting sick,NOT Me feeling worry
+Me feeling worry,NOT People breathing
+Me feeling worry,My support of government recommendations and regulations
+Me feeling worry,NOT My personal risk of becoming infected
+My support of government recommendations and regulations,Practicing hygiene/handwashing
+My support of government recommendations and regulations,Media coverage
+My support of government recommendations and regulations,People recovering
+My support of government recommendations and regulations,NOT Economic Downturn / Recession
+My support of government recommendations and regulations,Social Distancing/ Shelter in Place / Closure of non-essential businesses
+Economic Downturn / Recession,NOT Me feeling worry
+My personal risk of becoming infected,NOT People breathing
+My personal risk of becoming infected,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,My support of government recommendations and regulations
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering

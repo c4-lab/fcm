@@ -1,0 +1,48 @@
+Source,Target
+People gathering,People dying or getting sick
+People gathering,My personal risk of becoming infected
+People gathering,Me feeling contempt
+People breathing,People dying or getting sick
+People breathing,Me feeling worry
+People breathing,My personal risk of becoming infected
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,Me feeling worry
+Put infected people in quarantine,NOT People gathering
+Put infected people in quarantine,NOT People dying or getting sick
+Put infected people in quarantine,NOT Me feeling worry
+People dying or getting sick,Put infected people in quarantine
+People dying or getting sick,Me feeling worry
+People dying or getting sick,NOT My support of government recommendations and regulations
+People dying or getting sick,People recovering
+People dying or getting sick,My personal risk of becoming infected
+People dying or getting sick,Me feeling contempt
+Me feeling worry,People gathering
+My support of government recommendations and regulations,NOT People dying or getting sick
+People recovering,NOT People dying or getting sick
+People recovering,NOT Me feeling worry
+People recovering,NOT Economic Downturn / Recession
+People recovering,NOT My personal risk of becoming infected
+People recovering,NOT Me feeling contempt
+Developing a vaccine,People gathering
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT Me feeling worry
+Developing a vaccine,People recovering
+Developing a vaccine,NOT My personal risk of becoming infected
+Developing a vaccine,NOT Me feeling contempt
+Economic Downturn / Recession,Poverty
+Economic Downturn / Recession,People dying or getting sick
+Economic Downturn / Recession,Me feeling worry
+Economic Downturn / Recession,NOT My support of government recommendations and regulations
+Economic Downturn / Recession,Homelessness
+My personal risk of becoming infected,Me feeling worry
+Young people not feeling at risk,People gathering
+Young people not feeling at risk,NOT Economic Downturn / Recession
+Young people not feeling at risk,Me feeling contempt
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People gathering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Me feeling worry
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,Economic Downturn / Recession
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Wearing Masks,NOT People dying or getting sick
+Wearing Masks,NOT My personal risk of becoming infected

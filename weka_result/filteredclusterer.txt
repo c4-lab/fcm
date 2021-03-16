@@ -1,0 +1,101 @@
+=== Run information ===
+
+Scheme:       weka.clusterers.FilteredClusterer -F "weka.filters.AllFilter " -W weka.clusterers.SimpleKMeans -- -init 0 -max-candidates 100 -periodic-pruning 10000 -min-density 2.0 -t1 -1.25 -t2 -1.0 -N 2 -A "weka.core.EuclideanDistance -R first-last" -I 500 -num-slots 1 -S 10
+Relation:     directed_edgenode_uniform_processed-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    757
+Attributes:   16
+              dim_1
+              dim_2
+              dim_3
+              dim_4
+              dim_5
+              dim_6
+              dim_7
+              dim_8
+              dim_9
+              dim_10
+              dim_11
+              dim_12
+              dim_13
+              dim_14
+              dim_15
+              dim_16
+Test mode:    evaluate on training data
+
+
+=== Clustering model (full training set) ===
+
+FilteredClusterer using weka.clusterers.SimpleKMeans -init 0 -max-candidates 100 -periodic-pruning 10000 -min-density 2.0 -t1 -1.25 -t2 -1.0 -N 2 -A "weka.core.EuclideanDistance -R first-last" -I 500 -num-slots 1 -S 10 on data filtered through weka.filters.AllFilter 
+
+Filtered Header
+@relation directed_edgenode_uniform_processed-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.AllFilter
+
+@attribute dim_1 numeric
+@attribute dim_2 numeric
+@attribute dim_3 numeric
+@attribute dim_4 numeric
+@attribute dim_5 numeric
+@attribute dim_6 numeric
+@attribute dim_7 numeric
+@attribute dim_8 numeric
+@attribute dim_9 numeric
+@attribute dim_10 numeric
+@attribute dim_11 numeric
+@attribute dim_12 numeric
+@attribute dim_13 numeric
+@attribute dim_14 numeric
+@attribute dim_15 numeric
+@attribute dim_16 numeric
+
+@data
+
+
+Clusterer Model
+
+kMeans
+======
+
+Number of iterations: 21
+Within cluster sum of squared errors: 220.62968734372726
+
+Initial starting points (random):
+
+Cluster 0: 0.935034,1.28581,3.254135,0.434995,-2.514093,2.05892,-0.031572,0.722899,-0.397181,-0.00351,-4.108823,-5.704715,0.485354,3.733858,1.801743,-3.275096
+Cluster 1: 1.935601,4.331131,1.315328,-1.640805,0.602185,1.85018,-1.730642,-1.844602,1.215788,-0.660864,-3.661151,0.706692,-1.872403,4.680667,1.671066,3.270718
+
+Missing values globally replaced with mean/mode
+
+Final cluster centroids:
+                         Cluster#
+Attribute    Full Data          0          1
+               (757.0)    (264.0)    (493.0)
+============================================
+dim_1            2.099     2.7098      1.772
+dim_2           2.0038     3.6524     1.1209
+dim_3             0.15     0.3681     0.0333
+dim_4          -1.2996    -1.9911    -0.9293
+dim_5          -2.5208    -3.9283    -1.7671
+dim_6           0.5449    -0.5992     1.1576
+dim_7          -2.1212    -2.1273    -2.1178
+dim_8           0.8662     2.1192     0.1952
+dim_9          -0.1977    -0.9477      0.204
+dim_10          -0.281      0.145    -0.5092
+dim_11         -2.2398    -2.9419    -1.8637
+dim_12         -1.6472    -2.2251    -1.3378
+dim_13           0.578     0.2857     0.7346
+dim_14          1.4868     0.8942     1.8042
+dim_15          0.2863      -0.54     0.7288
+dim_16         -0.1548    -0.2534     -0.102
+
+
+
+
+Time taken to build model (full training data) : 0.01 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+0      264 ( 35%)
+1      493 ( 65%)
+

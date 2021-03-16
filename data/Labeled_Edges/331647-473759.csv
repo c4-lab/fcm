@@ -1,0 +1,103 @@
+Source,Target
+Individual's quality of education,Mental and emotional health
+Practicing hygiene/handwashing,People recovering
+Timely and reliable information,Individual's quality of education
+Timely and reliable information,NOT People gathering
+Timely and reliable information,NOT People dying or getting sick
+Timely and reliable information,People recovering
+Timely and reliable information,NOT People losing jobs
+Timely and reliable information,Curbside carryout (restaurants
+People gathering,NOT Individual's quality of education
+People gathering,Infected people don't know they are spreading virus
+People gathering,People dying or getting sick
+People gathering,My personal risk of becoming infected
+People gathering,NOT Curbside carryout (restaurants
+People gathering,Wearing Masks
+Overal happiness,Individual's quality of education
+Media coverage,Practicing hygiene/handwashing
+Media coverage,NOT Timely and reliable information
+Media coverage,My support of government recommendations and regulations
+Infected people don't know they are spreading virus,People gathering
+Infected people don't know they are spreading virus,People dying or getting sick
+Infected people don't know they are spreading virus,People recovering
+Infected people don't know they are spreading virus,COVID-19 testing
+Infected people don't know they are spreading virus,My personal risk of becoming infected
+Put infected people in quarantine,Practicing hygiene/handwashing
+Put infected people in quarantine,Overal happiness
+Put infected people in quarantine,NOT COVID-19 testing
+Put infected people in quarantine,NOT Economic Downturn / Recession
+Put infected people in quarantine,NOT My personal risk of becoming infected
+Put infected people in quarantine,Curbside carryout (restaurants
+People dying or getting sick,NOT Individual's quality of education
+People dying or getting sick,Practicing hygiene/handwashing
+People dying or getting sick,NOT Overal happiness
+People dying or getting sick,Media coverage
+People dying or getting sick,NOT Mental and emotional health
+People dying or getting sick,My support of government recommendations and regulations
+People dying or getting sick,Curbside carryout (restaurants
+People dying or getting sick,Me feeling sympathy
+People dying or getting sick,NOT People don't understand situation
+Mental and emotional health,Individual's quality of education
+Mental and emotional health,Overal happiness
+Mental and emotional health,Me feeling sympathy
+People recovering,NOT Practicing hygiene/handwashing
+People recovering,Overal happiness
+People recovering,Media coverage
+People recovering,Mental and emotional health
+People recovering,NOT Economic Downturn / Recession
+People recovering,NOT Wearing Masks
+People recovering,NOT Me feeling sympathy
+People recovering,NOT People don't understand situation
+Developing a vaccine,Individual's quality of education
+Developing a vaccine,Media coverage
+Developing a vaccine,NOT Infected people don't know they are spreading virus
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,People recovering
+Developing a vaccine,NOT Economic Downturn / Recession
+Developing a vaccine,NOT My personal risk of becoming infected
+Developing a vaccine,Herd Immunity (virus cannot spread because many people are immune)
+COVID-19 testing,NOT Infected people don't know they are spreading virus
+COVID-19 testing,My support of government recommendations and regulations
+COVID-19 testing,NOT My personal risk of becoming infected
+People losing jobs,Practicing hygiene/handwashing
+People losing jobs,NOT People gathering
+People losing jobs,NOT Overal happiness
+People losing jobs,NOT Infected people don't know they are spreading virus
+People losing jobs,My support of government recommendations and regulations
+People losing jobs,People recovering
+People losing jobs,NOT COVID-19 testing
+People losing jobs,Curbside carryout (restaurants
+Economic Downturn / Recession,NOT People gathering
+Economic Downturn / Recession,My support of government recommendations and regulations
+Economic Downturn / Recession,NOT Curbside carryout (restaurants
+Economic Downturn / Recession,NOT People don't understand situation
+My personal risk of becoming infected,My support of government recommendations and regulations
+Curbside carryout (restaurants,Overal happiness
+Curbside carryout (restaurants,NOT My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT People dying or getting sick
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,People recovering
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT My personal risk of becoming infected
+Social Distancing/ Shelter in Place / Closure of non-essential businesses,NOT Wearing Masks
+Wearing Masks,NOT Infected people don't know they are spreading virus
+Wearing Masks,People recovering
+Wearing Masks,My personal risk of becoming infected
+People don't understand situation,People gathering
+People don't understand situation,Infected people don't know they are spreading virus
+Homelessness,NOT Individual's quality of education
+Homelessness,Infected people don't know they are spreading virus
+Homelessness,People dying or getting sick
+Homelessness,NOT People recovering
+Homelessness,COVID-19 testing
+Homelessness,My personal risk of becoming infected
+Coordinated,Individual's quality of education
+Coordinated,Practicing hygiene/handwashing
+Coordinated,NOT People dying or getting sick
+Coordinated,People recovering
+Coordinated,NOT Economic Downturn / Recession
+Coordinated,NOT My personal risk of becoming infected
+Coordinated,Wearing Masks
+Coordinated,NOT People don't understand situation
+Herd Immunity (virus cannot spread because many people are immune),People gathering
+Herd Immunity (virus cannot spread because many people are immune),NOT People dying or getting sick
+Herd Immunity (virus cannot spread because many people are immune),NOT Developing a vaccine
+Herd Immunity (virus cannot spread because many people are immune),NOT My personal risk of becoming infected

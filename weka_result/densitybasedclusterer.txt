@@ -1,0 +1,152 @@
+=== Run information ===
+
+Scheme:       weka.clusterers.MakeDensityBasedClusterer -M 1.0E-6 -W weka.clusterers.SimpleKMeans -- -init 0 -max-candidates 100 -periodic-pruning 10000 -min-density 2.0 -t1 -1.25 -t2 -1.0 -N 2 -A "weka.core.EuclideanDistance -R first-last" -I 500 -num-slots 1 -S 10
+Relation:     directed_edgenode_uniform_processed-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    757
+Attributes:   16
+              dim_1
+              dim_2
+              dim_3
+              dim_4
+              dim_5
+              dim_6
+              dim_7
+              dim_8
+              dim_9
+              dim_10
+              dim_11
+              dim_12
+              dim_13
+              dim_14
+              dim_15
+              dim_16
+Test mode:    evaluate on training data
+
+
+=== Clustering model (full training set) ===
+
+MakeDensityBasedClusterer: 
+
+Wrapped clusterer: 
+kMeans
+======
+
+Number of iterations: 21
+Within cluster sum of squared errors: 220.62968734372726
+
+Initial starting points (random):
+
+Cluster 0: 0.935034,1.28581,3.254135,0.434995,-2.514093,2.05892,-0.031572,0.722899,-0.397181,-0.00351,-4.108823,-5.704715,0.485354,3.733858,1.801743,-3.275096
+Cluster 1: 1.935601,4.331131,1.315328,-1.640805,0.602185,1.85018,-1.730642,-1.844602,1.215788,-0.660864,-3.661151,0.706692,-1.872403,4.680667,1.671066,3.270718
+
+Missing values globally replaced with mean/mode
+
+Final cluster centroids:
+                         Cluster#
+Attribute    Full Data          0          1
+               (757.0)    (264.0)    (493.0)
+============================================
+dim_1            2.099     2.7098      1.772
+dim_2           2.0038     3.6524     1.1209
+dim_3             0.15     0.3681     0.0333
+dim_4          -1.2996    -1.9911    -0.9293
+dim_5          -2.5208    -3.9283    -1.7671
+dim_6           0.5449    -0.5992     1.1576
+dim_7          -2.1212    -2.1273    -2.1178
+dim_8           0.8662     2.1192     0.1952
+dim_9          -0.1977    -0.9477      0.204
+dim_10          -0.281      0.145    -0.5092
+dim_11         -2.2398    -2.9419    -1.8637
+dim_12         -1.6472    -2.2251    -1.3378
+dim_13           0.578     0.2857     0.7346
+dim_14          1.4868     0.8942     1.8042
+dim_15          0.2863      -0.54     0.7288
+dim_16         -0.1548    -0.2534     -0.102
+
+
+
+Fitted estimators (with ML estimates of variance):
+
+Cluster: 0 Prior probability: 0.3491
+
+Attribute: dim_1
+Normal Distribution. Mean = 2.7098 StdDev = 2.1341
+Attribute: dim_2
+Normal Distribution. Mean = 3.6524 StdDev = 2.0751
+Attribute: dim_3
+Normal Distribution. Mean = 0.3681 StdDev = 2.6129
+Attribute: dim_4
+Normal Distribution. Mean = -1.9911 StdDev = 2.3534
+Attribute: dim_5
+Normal Distribution. Mean = -3.9283 StdDev = 1.9021
+Attribute: dim_6
+Normal Distribution. Mean = -0.5992 StdDev = 2.2874
+Attribute: dim_7
+Normal Distribution. Mean = -2.1273 StdDev = 2.2126
+Attribute: dim_8
+Normal Distribution. Mean = 2.1192 StdDev = 2.0479
+Attribute: dim_9
+Normal Distribution. Mean = -0.9477 StdDev = 2.1083
+Attribute: dim_10
+Normal Distribution. Mean = 0.145 StdDev = 2.5365
+Attribute: dim_11
+Normal Distribution. Mean = -2.9419 StdDev = 2.3776
+Attribute: dim_12
+Normal Distribution. Mean = -2.2251 StdDev = 2.4125
+Attribute: dim_13
+Normal Distribution. Mean = 0.2857 StdDev = 2.2259
+Attribute: dim_14
+Normal Distribution. Mean = 0.8942 StdDev = 2.1429
+Attribute: dim_15
+Normal Distribution. Mean = -0.54 StdDev = 2.3287
+Attribute: dim_16
+Normal Distribution. Mean = -0.2534 StdDev = 2.2912
+
+Cluster: 1 Prior probability: 0.6509
+
+Attribute: dim_1
+Normal Distribution. Mean = 1.772 StdDev = 1.9141
+Attribute: dim_2
+Normal Distribution. Mean = 1.1209 StdDev = 1.6181
+Attribute: dim_3
+Normal Distribution. Mean = 0.0333 StdDev = 1.9097
+Attribute: dim_4
+Normal Distribution. Mean = -0.9293 StdDev = 1.8701
+Attribute: dim_5
+Normal Distribution. Mean = -1.7671 StdDev = 1.7595
+Attribute: dim_6
+Normal Distribution. Mean = 1.1576 StdDev = 1.874
+Attribute: dim_7
+Normal Distribution. Mean = -2.1178 StdDev = 2.0704
+Attribute: dim_8
+Normal Distribution. Mean = 0.1952 StdDev = 1.5333
+Attribute: dim_9
+Normal Distribution. Mean = 0.204 StdDev = 2.0478
+Attribute: dim_10
+Normal Distribution. Mean = -0.5092 StdDev = 1.8197
+Attribute: dim_11
+Normal Distribution. Mean = -1.8637 StdDev = 1.9361
+Attribute: dim_12
+Normal Distribution. Mean = -1.3378 StdDev = 2.1656
+Attribute: dim_13
+Normal Distribution. Mean = 0.7346 StdDev = 1.745
+Attribute: dim_14
+Normal Distribution. Mean = 1.8042 StdDev = 2.0165
+Attribute: dim_15
+Normal Distribution. Mean = 0.7288 StdDev = 1.8025
+Attribute: dim_16
+Normal Distribution. Mean = -0.102 StdDev = 1.7126
+
+
+Time taken to build model (full training data) : 0.02 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+0      273 ( 36%)
+1      484 ( 64%)
+
+
+Log likelihood: -34.10489
+

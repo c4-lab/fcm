@@ -1,0 +1,20 @@
+Source,Target
+People gathering,NOT Banning safe activities
+People dying or getting sick,NOT People gathering
+People dying or getting sick,My support of government recommendations and regulations
+People dying or getting sick,NOT My personal risk of becoming infected
+People dying or getting sick,Me feeling contempt
+Preventative measures,People gathering
+Preventative measures,People recovering
+Preventative measures,NOT My personal risk of becoming infected
+People recovering,People gathering
+People recovering,My support of government recommendations and regulations
+People recovering,NOT My personal risk of becoming infected
+People recovering,NOT Me feeling contempt
+Financial help,People gathering
+Financial help,My support of government recommendations and regulations
+Financial help,NOT My personal risk of becoming infected
+Financial help,NOT Me feeling contempt
+My personal risk of becoming infected,NOT People gathering
+Banning safe activities,NOT My support of government recommendations and regulations
+Banning safe activities,Me feeling contempt

@@ -1,0 +1,25 @@
+Source,Target
+Enough protective gear for first responders/health care workers,People dying or getting sick
+Stay-at-home order,People losing jobs
+Stay-at-home order,NOT My personal risk of becoming infected
+Insufficient amount of treatment equipment and medications,People dying or getting sick
+Insufficient amount of treatment equipment and medications,NOT People recovering
+People dying or getting sick,Me feeling worry
+My support of government recommendations and regulations,Stay-at-home order
+My support of government recommendations and regulations,NOT Insufficient amount of treatment equipment and medications
+My support of government recommendations and regulations,People losing jobs
+My support of government recommendations and regulations,Economic assistance that the government has made available
+Access to free healthcare for COVID-19 patients,NOT Me feeling worry
+Access to free healthcare for COVID-19 patients,People recovering
+Developing a vaccine,Enough protective gear for first responders/health care workers
+Developing a vaccine,NOT People dying or getting sick
+Developing a vaccine,NOT My personal risk of becoming infected
+COVID-19 testing,NOT Me feeling worry
+COVID-19 testing,People recovering
+COVID-19 testing,NOT My personal risk of becoming infected
+People losing jobs,Me feeling worry
+My personal risk of becoming infected,Me feeling worry
+People not feeling at risk,People dying or getting sick
+People not feeling at risk,Me feeling worry
+People touching things,Infected people don't know they are spreading virus
+People touching things,People dying or getting sick
